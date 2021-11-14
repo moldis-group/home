@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Publications      
+## Publications      
 
 1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798)    
 Prakriti Kayastha, Raghunathan Ramakrishnan     
