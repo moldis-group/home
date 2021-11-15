@@ -10,7 +10,8 @@ layout: default
 <img src="assets/img/sandwich.png"  height="150">
 
 
-[Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en) 
+[Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)   
+
 
 ### Junior Researchers
 [Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)              
