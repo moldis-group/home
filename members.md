@@ -61,7 +61,7 @@ Manvi Gupta, 2017
 Anjana R Kammath, 2017      
 Rishabh Gupta, 2017      
 Sharanya Srinivasan, 2018      
-Sowmya Krishnan, 2018      
+[Sowmya Krishnan](https://scholar.google.com/citations?user=C33jR_MAAAAJ&hl=en&oi=ao), 2018      
 Divya Suman, 2018      
 Merlyn Baby, 2018      
 Jaslin Kaur, 2019      
