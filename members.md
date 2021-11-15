@@ -8,6 +8,7 @@ layout: default
 <img src="assets/img/IMG-20180707-WA0002.jpg"  height="150">
 <img src="assets/img/transit.png"  height="150">
 <img src="assets/img/sandwich.png"  height="150">
+<img src="assets/img/kicker.gif"  height="150">
 
 
 [Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)   
