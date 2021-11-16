@@ -17,7 +17,7 @@ addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin 
 Modern Quantum Mechanics, J. J. Sakurai, JJ. Napolitano, Pearson (Edition-2, 2011, Indian subcontinent reprint 2014).      
 
 #### _Lecture notes:_    
-Notes on selected topics is under preparation       
+1. Detailed solution for the particle-in-a-1D-box using series solution method ([QM2021_Notes01_PIB.pdf](teaching/QM2021_Notes01_PIB.pdf))    
 
 #### _Assignment problems:_     
 [Assignment 01 (PDF)](teaching/QM2021_Assignment_01.pdf)     
