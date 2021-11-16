@@ -19,7 +19,7 @@ Additional reading:
 ## Numerical Methods, PHY-102.7/CHM-116.7 (March – June 2021)
 
 Syllabus:      
-Course material at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021) 
+Course material at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021)     
 Interactive notebooks at [https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD](https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD)
 
 References:     
