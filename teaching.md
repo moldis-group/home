@@ -16,15 +16,15 @@ addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin 
 #### _References:_     
 Modern Quantum Mechanics, J. J. Sakurai, JJ. Napolitano, Pearson (Edition-2, 2011, Indian subcontinent reprint 2014).      
 
-#### _Lecture Notes:_    
+#### _Lecture notes:_    
 Notes on selected topics is under preparation       
 
-#### _Assignment Problems:_     
+#### _Assignment problems:_     
 [Assignment 01 (PDF)](teaching/QM2021_Assignment_01.pdf)     
 [Assignment 02 (PDF)](teaching/QM2021_Assignment_02.pdf)     
 [Assignment 03 (PDF)](teaching/QM2021_Assignment_03.pdf)    
 
-#### _Exam Problems:_    
+#### _Exam problems:_    
 [Mid-term (PDF)](teaching/QM2021_MidTerm.pdf)      
 
 #### _Additional reading:_   
@@ -62,7 +62,7 @@ Course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
 
 12. Optional Topics: Krylov Subspace Techniques, Lanczos iteration, Iterative linear solvers, Non-linear regression, Matrices: Rank and condition numbers
 
-#### _Lecture Notes:_ 
+#### _Lecture notes:_ 
 
 Course material at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021)     
 Interactive notebooks at [https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD](https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD)
