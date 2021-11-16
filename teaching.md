@@ -1,7 +1,20 @@
 ## Quantum Mechanics 1, PHY-106.7/CHM-104.7
 
+Course content: [2021_QM1.pdf](teaching/2021_QM1.pdf)
+
 #### _Syllabus:_ 
-[Course outline (PDF)](teaching/2021_QM1.pdf)   
+
+1. Fundamental concepts: Stern-Gerlach experiment; State vectors and operators; Bra-Ket notation: Hilbert space, Inner products; Matrix representation: Eigenkets, Spin-1/2 system, Measurements: Observables, Compatible/Incompatible observables, Uncertainty relations; Change of basis: Transformation, Continuous representation: Position/Momentum representation, Dirac delta function, Gaussian Wavepackets
+
+2. Quantum dynamics: Time evolution and Schroedinger equation: Energy eigenkets, Stationary/nonstattionary states, Spin precession; Schroedinger/Heisenberg picture: Ehrenfest theorem, Transition amplitude; Simple harmonic oscillator: Stationary states, Time-evolution; Wave mechanics: Probability density, Classical limit; Elementary solutions to Schroedinger wave equation: Free particles, Infinitesquare well, Finite-square well, Transmission-Reflection problems Simple harmonic oscillator, Linear potential   
+
+3. Theory of angular momentum: Rotations: Finite/infinite rotations, Commutation; Spin-1/2 system; Pauli 2-component quantum mechanics; Continuous groups: SO(3), SU(3), Euler rotations; Density operators: Pure-vs-mixed ensembles, time-evolution of ensembles, Quantum statistical mechanics; Eigenvalues and eigenstates of angular momentum; Orbital angular momentum: Spherical harmonics; Central potential problems, Hydrogen atom; Angular momentum algebra: Angular momentum
+addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin correlation measurements; Tensor operators: Wigner-Eckart theorem     
+
+4. Approximation methods: Time-independent perturbation theory; Time-dependent perturbation theory; Application of perturbation theory to higher-order effects in Hydrogen atom Degenerate and nondegenerate versions; Variational method; WKB method   
+
+#### _References:_     
+Modern Quantum Mechanics, J. J. Sakurai, JJ. Napolitano, Pearson (Edition-2, 2011, Indian subcontinent reprint 2014).      
 
 #### _Lecture Notes:_    
 Notes on selected topics is under preparation       
