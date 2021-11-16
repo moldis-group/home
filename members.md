@@ -11,11 +11,14 @@ layout: default
 <img src="assets/img/IMG-20180707-WA0002.jpg"  height="150">
 <img src="assets/img/IMG-20181229-WA0012.jpg"  height="150">
 <img src="assets/img/IMG-20181229-WA0014.jpg"  height="150">
-<img src="assets/img/mumbai.jpg"  height="150">
+<img src="assets/img/mumbai.jpeg"  height="150">
 <img src="assets/img/20181223_161551.jpg"  height="150">
 <img src="assets/img/20190224_161103.jpg"  height="150">
 <img src="assets/img/20200222_182353.jpg"  height="150">
 <img src="assets/img/kicker.gif"  height="150">
+<img src="assets/img/lockdown.jpeg"  height="150">
+<img src="assets/img/earth.jpeg"  height="150">
+<img src="assets/img/helios.jpeg"  height="150">
 
 
 [Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)   
