@@ -4,7 +4,7 @@
 
 Lecture Notes: Notes on selected topics is under preparation       
 
-<u>Assignment Problems:</u>     
+<u>Assignment Problems:<\u>     
 [Assignment 01 (PDF)](teaching/QM2021_Assignment_01.pdf)     
 [Assignment 02 (PDF)](teaching/QM2021_Assignment_02.pdf)     
 [Assignment 03 (PDF)](teaching/QM2021_Assignment_03.pdf)    
