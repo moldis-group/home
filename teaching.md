@@ -16,7 +16,7 @@ addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin 
 #### _References:_     
 Modern Quantum Mechanics, J. J. Sakurai, JJ. Napolitano, Pearson (Edition-2, 2011, Indian subcontinent reprint 2014).      
 
-#### _Lecture notes:_    
+#### _Notes:_    
 1. Detailed solution for the particle-in-a-1D-box using series solution method ([QM2021_Notes01_PIB.pdf](teaching/QM2021_Notes01_PIB.pdf))    
 
 #### _Assignment problems:_     
@@ -62,9 +62,9 @@ Course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
 
 12. Optional Topics: Krylov Subspace Techniques, Lanczos iteration, Iterative linear solvers, Non-linear regression, Matrices: Rank and condition numbers
 
-#### _Lecture notes:_ 
+#### _Course material:_ 
 
-Course material at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021)     
+Source files at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021)     
 Interactive notebooks at [https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD](https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD)
 
 #### _References:_     
