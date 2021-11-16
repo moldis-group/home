@@ -19,7 +19,8 @@ Additional reading:
 ## Numerical Methods, PHY-102.7/CHM-116.7 (March – June 2021)
 
 Syllabus:      
-Access course material at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021) and interactive notebooks at [https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD](https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD)
+Course material at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021) 
+Interactive notebooks at [https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD](https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD)
 
 References:     
 Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).      
