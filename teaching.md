@@ -2,7 +2,7 @@
 
 [Course outline (PDF)](teaching/2021_QM1.pdf)   
 
-Lecture Notes:    
+Lecture Notes: Notes on selected topics is under preparation       
 
 Assignment Problems:     
 [Assignment 01 (PDF)](teaching/QM2021_Assignment_01.pdf)     
@@ -10,9 +10,11 @@ Assignment Problems:
 [Assignment 03 (PDF)](teaching/QM2021_Assignment_03.pdf)    
 
 Exam Problems:    
-[Mid-term (PDF)](teaching/QM2021_MidTerm.pdf)    
+[Mid-term (PDF)](teaching/QM2021_MidTerm.pdf)      
 
-Additional references:   
+Additional reading:   
+[Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).      
+
 
 ## Numerical Methods, PHY-102.7/CHM-116.7 (March – June 2021)
 
@@ -24,7 +26,7 @@ Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge Univer
 A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).       
 Numerical Methods, W. Boehm, H. Prautzsch, Universities Press, 2000.       
 
-Additional Reading:    
+Additional reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
 [Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
 [Babylon and the square root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)      
