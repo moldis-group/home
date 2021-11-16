@@ -1,4 +1,4 @@
-### Quantum Mechanics 1 (August – December 2021)
+## Quantum Mechanics 1 (August – December 2021)
 
 [Course outline (PDF)](teaching/2021_QM1.pdf)   
 
