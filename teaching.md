@@ -20,9 +20,9 @@ Syllabus:
 Access course material at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021) and interactive notebooks at [https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD](https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD)
 
 References:     
-Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).
-A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).
-Numerical Methods, W. Boehm, H. Prautzsch, Universities Press, 2000.
+Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).      
+A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).       
+Numerical Methods, W. Boehm, H. Prautzsch, Universities Press, 2000.       
 
 Additional Reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
