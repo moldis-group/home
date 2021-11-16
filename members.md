@@ -13,7 +13,7 @@ layout: default
 <img src="assets/img/IMG-20181229-WA0014.jpg"  height="150">
 <img src="assets/img/20181223_161551.jpg"  height="150">
 <img src="assets/img/mumbai.jpeg"  height="150">
-<img src="assets/img/sabya.jpg"  height="150">
+<img src="assets/img/sabya.jpeg"  height="150">
 <img src="assets/img/20190224_161103.jpg"  height="150">
 <img src="assets/img/20200222_182353.jpg"  height="150">
 <img src="assets/img/kicker.gif"  height="150">
