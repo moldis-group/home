@@ -19,16 +19,43 @@ _Additional reading:_
 
 ## Numerical Methods, PHY-102.7/CHM-116.7 (March – June 2021)
 
-_Syllabus:_      
+####_Syllabus:_      
+
+1. Python: Writing/running codes, Jupyter notebooks, modules
+
+2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method
+
+3. Data Modeling: Approximations: least squares fitting; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
+
+4. Root finding: The problem, fixed-point iteration, bisection method, Newton-Raphson method (1-D and n-D), Jacobian matrix, pseudo-inverse, quasi-Newton method (1-D: secant method, n-D: Broyden), `scipy.optimize` 
+
+5. Optimization/Minimization: 1-D problems, n-D problems, `scipy.optimize.minimize(method=’L-BFGS-B’)`, Simplex method, `scipy.optimize.minimize(method=’Nelder-Mead’)`, How to select an optimization method?
+
+6. Numerical Differentiation: Finite difference; Error analysis
+
+7. Numerical Integration: Newton-Cotes formulae, Romberg/Gaussian integration, Multiple integrals
+
+8. Initial Value Problems: Euler/Runge-Kutta methods; Stability and Stiffness
+
+9. Boundary Value Problems: Shooting Method
+
+10. Symmetric Matrix Eigenvalue Problems: Jacobi rotations, Power/inverse power method, Tridiagonal form
+
+11. Application to Chemical Physics: Molecular thermodynamics (Ideal gas, harmonic oscillator, rigid rotor partition functions), Equation of states, Schroedinger equation of Hydrogen molecule cation, Hartree-Fock for He atom, Linear variational problems in Quantum mechanics (1D potentials, Tunneling problems), Potential energy surface fitting, Time-dependent Schroedinger equation. 
+
+12. Optional Topics: Krylov Subspace Techniques, Lanczos iteration, Iterative linear solvers, Non-linear regression, Matrices: Rank and condition numbers
+
+####_Lecture Notes:_ 
+
 Course material at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021)     
 Interactive notebooks at [https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD](https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD)
 
-_References:_     
+####_References:_     
 Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).      
 A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).       
 Numerical Methods, W. Boehm, H. Prautzsch, Universities Press, 2000.       
 
-_Additional reading:_    
+####_Additional reading:_    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
 [Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
 [Babylon and the square root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)      
