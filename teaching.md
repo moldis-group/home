@@ -1,6 +1,6 @@
 ## Quantum Mechanics 1, PHY-106.7/CHM-104.7
 
-Course content: [2021_QM1.pdf](teaching/2021_QM1.pdf)
+Course outline: [2021_QM1.pdf](teaching/2021_QM1.pdf)
 
 #### _Syllabus:_ 
 
@@ -33,6 +33,8 @@ Notes on selected topics is under preparation
 * * *
 
 ## Numerical Methods, PHY-102.7/CHM-116.7
+
+Course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
 
 #### _Syllabus:_      
 
