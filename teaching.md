@@ -1,23 +1,24 @@
-## Quantum Mechanics 1, PHY-106.7/CHM-104.7 (August – December 2021)
+## Quantum Mechanics 1, PHY-106.7/CHM-104.7
 
+#### _Syllabus:_ 
 [Course outline (PDF)](teaching/2021_QM1.pdf)   
 
-_Lecture Notes:_    
+#### _Lecture Notes:_    
 Notes on selected topics is under preparation       
 
-_Assignment Problems:_     
+#### _Assignment Problems:_     
 [Assignment 01 (PDF)](teaching/QM2021_Assignment_01.pdf)     
 [Assignment 02 (PDF)](teaching/QM2021_Assignment_02.pdf)     
 [Assignment 03 (PDF)](teaching/QM2021_Assignment_03.pdf)    
 
-_Exam Problems:_    
+#### _Exam Problems:_    
 [Mid-term (PDF)](teaching/QM2021_MidTerm.pdf)      
 
-_Additional reading:_   
+#### _Additional reading:_   
 [Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).      
 
 
-## Numerical Methods, PHY-102.7/CHM-116.7 (March – June 2021)
+## Numerical Methods, PHY-102.7/CHM-116.7
 
 #### _Syllabus:_      
 
