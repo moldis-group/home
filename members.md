@@ -21,7 +21,7 @@ layout: default
 <img src="assets/img/lockdown.jpeg"  height="150">
 
 
-[Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)   
+[Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raghurama123.svg?style=social&label=Follow%20%40raghurama123)](https://twitter.com/raghurama123)   
 
 
 ### Junior Researchers
