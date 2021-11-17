@@ -19,8 +19,6 @@ layout: default
 <img src="assets/img/kicker.gif"  height="150">
 <img src="assets/img/pondi.jpeg"  height="150">
 <img src="assets/img/lockdown.jpeg"  height="150">
-<img src="assets/img/earth.jpeg"  height="150">
-<img src="assets/img/helios.jpeg"  height="150">
 
 
 [Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)   
