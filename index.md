@@ -40,6 +40,9 @@ We use the following quantum chemistry and materials simulation software develop
 <a href="http://openmopac.net/">
 <img src="assets/img/mopac.png"  height="100">
 </a>
+<a href="https://www.qmlcode.org/">
+<img src="assets/img/QML.png"  height="100">
+</a>
 
 In addition, we have also developed a lot of _inhouse_ codes!
 
