@@ -19,29 +19,27 @@ We have a high-performance computation facility dedicated _only_ for our activit
 <img src="assets/img/helios.jpeg"  height="150">
        
 We use the following quantum chemistry and materials simulation software developed by research groups across the world 
-![](https://moldis.tifrh.res.in/index.html)
 <a href="https://fhi-aims.org/">
 <img src="assets/img/aims.svg"  height="100">
 </a>
-![](https://moldis.tifrh.res.in/index.html)
 <a href="https://orcaforum.kofo.mpg.de/">
 <img src="assets/img/orca.png"  height="100">
 </a>
-![](https://moldis.tifrh.res.in/index.html)
 <a href="https://gaussian.com/">
 <img src="assets/img/gaussian.jpeg"  height="100">
 </a>
-![](https://moldis.tifrh.res.in/index.html)
 <a href="https://psicode.org/">
 <img src="assets/img/psi4.png"  height="100">
 </a>
 </a>
-![](https://moldis.tifrh.res.in/index.html)
 <a href="https://www.turbomole.org/">
 <img src="assets/img/turbomole.jpeg"  height="100">
 </a>
 <a href="https://www.molpro.net/">
 <img src="assets/img/molpro.png"  height="100">
+</a>
+<a href="http://openmopac.net/">
+<img src="assets/img/mopac.png"  height="100">
 </a>
 
 In addition, we have also developed a lot of _inhouse_ codes!
