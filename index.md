@@ -49,7 +49,7 @@ We develop kernel-based Quantum Machine Learning using the QML code and our own 
 </a>
 
      
-We have access to _all_ journals and books relevant to our research.         
+We have access to journals and books relevant to our research.         
 <img src="assets/img/books.jpeg"  height="150">
  
 * * *
