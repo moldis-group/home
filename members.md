@@ -23,7 +23,7 @@ layout: default
 
 [Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)      
 <ramakrishnan@tifrh.res.in>      
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raghurama123.svg?style=social&label=Follow%20%40raghurama123)](https://twitter.com/raghurama123)        
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raghurama123.svg?style=social&label=%20%40raghurama123)](https://twitter.com/raghurama123)        
 
 
 ### Junior Researchers
