@@ -33,6 +33,9 @@ We use the following quantum chemistry and materials simulation software develop
 </a>
 
 In addition, we have also developed a lot of _inhouse_ codes!
+
+We already have or keep purchasing all books ever published related to our activities     
+<img src="assets/img/books.jpeg"  height="150">
  
 * * *
 
