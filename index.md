@@ -23,6 +23,10 @@ We use the following quantum chemistry and materials simulation software develop
 <a href="https://fhi-aims.org/">
 <img src="assets/img/aims.svg"  height="100">
 </a>
+![](https://moldis.tifrh.res.in/index.html)
+<a href="https://orcaforum.kofo.mpg.de/">
+<img src="assets/img/orca.png"  height="100">
+</a>
  
 * * *
 
