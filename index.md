@@ -40,11 +40,12 @@ We use the following quantum chemistry and materials simulation software develop
 <a href="http://openmopac.net/">
 <img src="assets/img/mopac.png"  height="100">
 </a>
+
+We develop kernel-based Quantum Machine Learning using the QML code and our own _inhouse_ codes! 
 <a href="https://www.qmlcode.org/">
 <img src="assets/img/QML.png"  height="100">
 </a>
 
-In addition, we have also developed a lot of _inhouse_ codes!
 
 We have access to _all_ books ever published related to our activities.         
 <img src="assets/img/books.jpeg"  height="150">
