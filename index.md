@@ -14,7 +14,7 @@ MolDis, our big data analytics platform for MOLecular DIScovery is now open for 
 </a>
 
 ### Research tools
-We have a high-performance computer cluster dedicated _only_ for our activities right next to the PI's office!    
+We have a high-performance computation facility dedicated _only_ for our activities!    
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
        
