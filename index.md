@@ -31,7 +31,6 @@ We use the following quantum chemistry and materials simulation software develop
 <a href="https://psicode.org/">
 <img src="assets/img/psi4.png"  height="100">
 </a>
-</a>
 <a href="https://www.turbomole.org/">
 <img src="assets/img/turbomole.jpeg"  height="100">
 </a>
