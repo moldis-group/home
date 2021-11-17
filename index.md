@@ -18,7 +18,7 @@ We have a high-performance computation facility dedicated _only_ for our activit
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
        
-       
+        
 We use the following quantum chemistry and materials simulation software developed by research groups across the world 
 <a href="https://fhi-aims.org/">
 <img src="assets/img/aims.svg"  height="100">
@@ -42,13 +42,13 @@ We use the following quantum chemistry and materials simulation software develop
 <img src="assets/img/mopac.png"  height="100">
 </a>
 
-
+      
 We develop kernel-based Quantum Machine Learning using the QML code and our own _inhouse_ codes! 
 <a href="https://www.qmlcode.org/">
 <img src="assets/img/QML.png"  height="100">
 </a>
 
-
+     
 We have access to _all_ books ever published related to our activities.         
 <img src="assets/img/books.jpeg"  height="150">
  
