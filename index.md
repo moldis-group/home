@@ -14,7 +14,7 @@ MolDis, our big data analytics platform for MOLecular DIScovery is now open for 
 </a>
 
 ### Research tools
-We have a high-performance computation facility dedicated _only_ for our activities!    
+We have a dedicated high-performance computation facility!    
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
        
@@ -43,7 +43,7 @@ We use the following quantum chemistry and materials simulation software develop
 </a>
 
       
-We develop kernel-based Quantum Machine Learning using the QML code and our own _inhouse_ codes! 
+We apply kernel-based Quantum Machine Learning using the QML code and our own _inhouse_ codes! 
 <a href="https://www.qmlcode.org/">
 <img src="assets/img/QML.png"  height="100">
 </a>
