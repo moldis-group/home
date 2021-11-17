@@ -14,7 +14,7 @@ MolDis, our big data analytics platform for MOLecular DIScovery is now open for 
 </a>
 
 ### Research tools
-We have a high-performance computer cluster dedicated _only_ for our activities right next to my office!    
+We have a high-performance computer cluster dedicated _only_ for our activities right next to the PI's office!    
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
        
@@ -34,7 +34,7 @@ We use the following quantum chemistry and materials simulation software develop
 
 In addition, we have also developed a lot of _inhouse_ codes!
 
-We already have or keep purchasing all books ever published related to our activities     
+We have access to _all_ books ever published related to our activities.         
 <img src="assets/img/books.jpeg"  height="150">
  
 * * *
