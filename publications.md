@@ -4,6 +4,8 @@ layout: default
 
 ## Publications      
 
+#### Under consideration
+
 1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798)    
 Prakriti Kayastha, Raghunathan Ramakrishnan     
 submitted (2021)        
@@ -20,6 +22,8 @@ submitted (2021)
 Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan       
 submitted (2021)        
 [Pople code](https://moldis-group.github.io/pople/)     
+
+#### Published    
     
 1. [_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9)       
 Prakriti Kayastha, Raghunathan Ramakrishnan           
