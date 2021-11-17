@@ -27,6 +27,10 @@ We use the following quantum chemistry and materials simulation software develop
 <a href="https://orcaforum.kofo.mpg.de/">
 <img src="assets/img/orca.png"  height="100">
 </a>
+![](https://moldis.tifrh.res.in/index.html)
+<a href="https://gaussian.com/">
+<img src="assets/img/gaussian.jpeg"  height="100">
+</a>
 
 In addition, we have also developed a lot of _inhouse_ codes!
  
