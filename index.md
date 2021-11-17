@@ -35,6 +35,14 @@ We use the following quantum chemistry and materials simulation software develop
 <a href="https://psicode.org/">
 <img src="assets/img/psi4.png"  height="100">
 </a>
+</a>
+![](https://moldis.tifrh.res.in/index.html)
+<a href="https://www.turbomole.org/">
+<img src="assets/img/turbomole.jpeg"  height="100">
+</a>
+<a href="https://www.molpro.net/">
+<img src="assets/img/molpro.png"  height="100">
+</a>
 
 In addition, we have also developed a lot of _inhouse_ codes!
 
