@@ -14,10 +14,10 @@ MolDis, our big data analytics platform for MOLecular DIScovery is now open for 
 </a>
 
 ### Research tools
-We have a high-performance computer cluster dedicated _only_ for our activities right next to my office! 
+We have a high-performance computer cluster dedicated _only_ for our activities right next to my office!    
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
-
+       
 We use the following quantum chemistry and materials simulation software developed by research groups across the world 
 ![](https://moldis.tifrh.res.in/index.html)
 <a href="https://fhi-aims.org/">
