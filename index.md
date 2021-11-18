@@ -60,7 +60,7 @@ We apply kernel-based Quantum Machine Learning using the QML code and our own _i
        
 We have access to journals and books relevant to our research.           
 
-<img src="assets/img/books.jpeg"  height="100">
+<img src="assets/img/books.jpeg"  height="150">
  
 * * *
 
