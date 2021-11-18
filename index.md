@@ -23,7 +23,7 @@ We have a dedicated high-performance computation facility!
 We use the following quantum chemistry and materials simulation software developed by research groups across the world    
 
 <a href="https://fhi-aims.org/">
-<img src="assets/img/aims.svg"  height="100">
+<img src="assets/img/aims.svg"  height="150">
 </a>
 <a href="https://orcaforum.kofo.mpg.de/">
 <img src="assets/img/orca.png"  height="100">
