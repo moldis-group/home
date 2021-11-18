@@ -47,7 +47,7 @@ We use the following quantum chemistry and materials simulation software develop
 We have developed an _inhouse_ code for studying attosecond--to--femtosecond electronic processes.     
 
 <a href="https://doi.org/10.1063/5.0009196">
-<img src="assets/img/TDCI.png"  height="150">
+<img src="assets/img/TDCI.png"  height="100">
 </a>
      
       
