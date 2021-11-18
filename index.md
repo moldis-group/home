@@ -40,6 +40,9 @@ We use the following quantum chemistry and materials simulation software develop
 <a href="https://www.molpro.net/">
 <img src="assets/img/molpro.png"  height="100">
 </a>
+<a href="https://www.msg.chem.iastate.edu/gamess/">
+<img src="assets/img/gamess.png"  height="100">
+</a>
 <a href="http://openmopac.net/">
 <img src="assets/img/mopac.png"  height="100">
 </a>
