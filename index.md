@@ -14,12 +14,14 @@ MolDis, our big data analytics platform for MOLecular DIScovery is now open for 
 </a>
 
 ### Research tools
-We have a dedicated high-performance computation facility!    
+We have a dedicated high-performance computation facility!       
+
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
        
         
-We use the following quantum chemistry and materials simulation software developed by research groups across the world 
+We use the following quantum chemistry and materials simulation software developed by research groups across the world    
+
 <a href="https://fhi-aims.org/">
 <img src="assets/img/aims.svg"  height="100">
 </a>
@@ -42,8 +44,15 @@ We use the following quantum chemistry and materials simulation software develop
 <img src="assets/img/mopac.png"  height="100">
 </a>
 
+We have developed an _inhouse_ code for studying attosecond electronic processes     
+
+<a href="https://doi.org/10.1063/5.0009196">
+<img src="assets/img/TDCI.png"  height="100">
+</a>
+
       
-We apply kernel-based Quantum Machine Learning using the QML code and our own _inhouse_ codes! 
+We apply kernel-based Quantum Machine Learning using the QML code and our own _inhouse_ codes!     
+
 <a href="https://www.qmlcode.org/">
 <img src="assets/img/QML.png"  height="100">
 </a>
