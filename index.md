@@ -49,7 +49,7 @@ We have developed an _inhouse_ code for studying attosecond electronic processes
 <a href="https://doi.org/10.1063/5.0009196">
 <img src="assets/img/TDCI.png"  height="200">
 </a>
-
+     
       
 We apply kernel-based Quantum Machine Learning using the QML code and our own _inhouse_ codes!     
 
