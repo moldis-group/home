@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 <img src="assets/img/sandwich.png"  height="150">
 <img src="assets/img/transit.png"  height="150">
