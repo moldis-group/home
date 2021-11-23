@@ -47,7 +47,7 @@ Sambit Kumar Das
 ### Former Visiting Students      
 [Ahana Ghosh](https://scholar.google.com/citations?user=82ubzWoAAAAJ&hl=en&oi=ao), 2016      
 Manvi Gupta, 2017      
-Anjana R Kammath, 2017      
+[Anjana R Kammath](https://scholar.google.com/citations?hl=en&user=OcH1KewAAAAJ), 2017      
 Rishabh Gupta, 2017      
 Sharanya Srinivasan, 2018      
 [Sowmya Krishnan](https://scholar.google.com/citations?user=C33jR_MAAAAJ&hl=en&oi=ao), 2018      
