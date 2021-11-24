@@ -76,6 +76,7 @@ Numerical Methods, W. Boehm, H. Prautzsch, Universities Press, 2000.
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
 [Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
 [Babylon and the square root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)      
-[PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) 
+[PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)   
+[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)    
 
 * * *
