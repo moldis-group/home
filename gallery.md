@@ -18,7 +18,7 @@ layout: default
 <br>
 
 ## The group presenting science
-<img src="assets/img/IMG_3314.jpeg"  height="150">
+<img src="assets/img/IMG_3314.JPG"  height="150">
 <img src="assets/img/sab.jpeg"  height="150">
 <img src="assets/img/mumbai.jpeg"  height="150">
 <img src="assets/img/raghu1.jpg"  height="150">
