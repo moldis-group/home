@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Group trips
+## Group pics
 <img src="assets/img/sandwich.png"  height="150">
 <img src="assets/img/transit.png"  height="150">
 <img src="assets/img/IMG_20170801_162422.jpg"  height="150">     
@@ -20,3 +20,6 @@ layout: default
 <img src="assets/img/mumbai.jpeg"  height="150">
 <img src="assets/img/pra.jpeg"  height="150">
 <img src="assets/img/pondi.jpeg"  height="150">
+
+## The PI
+<img src="assets/img/sid.JPG"  height="150">
