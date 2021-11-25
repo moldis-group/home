@@ -18,6 +18,7 @@ Our work depends on high-performance computation.
 
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
+<img src="assets/img/nodes.jpeg"  height="150">
        
         
 We use quantum chemistry and materials simulation software developed by research groups across the world.    
