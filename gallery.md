@@ -22,5 +22,6 @@ layout: default
 <img src="assets/img/mumbai.jpeg"  height="150">
 <img src="assets/img/pra.jpeg"  height="150">
 <img src="assets/img/pondi.jpeg"  height="150">
+<img src="assets/img/rag.jpeg"  height="150">
 
 
