@@ -18,7 +18,7 @@ Our work depends on high-performance computation.
 
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
-<img src="assets/img/helios_2.jpeg"  height="150">
+<img src="assets/img/helios_2.jpg"  height="150">
 <img src="assets/img/nodes.jpeg"  height="150">
        
         
