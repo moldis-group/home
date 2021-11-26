@@ -32,6 +32,7 @@ layout: default
 <img src="assets/img/100_6520.JPG"  height="150">
 <img src="assets/img/100_6440.JPG"  height="150">
 <img src="assets/img/20140609_190650.jpg"  height="150">
+<img src="assets/img/sid.jpg"  height="150">
 <img src="assets/img/20140829_134728.jpg"  height="150">
 <img src="assets/img/20141019_160731.jpg"  height="150">
 <img src="assets/img/20141019_171707.jpg"  height="150">
