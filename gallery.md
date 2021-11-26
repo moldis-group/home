@@ -28,5 +28,5 @@ layout: default
 <br>
 
 ## The PI before the PI days
-<img src="assets/img/100_6440.JPG"  height="150">
+<img src="assets/img/100_6520.JPG"  height="150">
 <img src="assets/img/20140609_190650.jpg"  height="150">
