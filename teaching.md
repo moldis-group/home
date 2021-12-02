@@ -30,6 +30,9 @@ Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-2, 2
 #### _Additional reading:_   
 [Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).      
 
+#### _Codes:_
+Here is the github repositors where the codes written for the course will be maintained [https://github.com/raghurama123/QuantumMechanics](https://github.com/raghurama123/QuantumMechanics)
+
 * * *
 
 ## Numerical Methods, PHY-102.7/CHM-116.7
