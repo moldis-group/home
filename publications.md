@@ -19,7 +19,7 @@ submitted (2021)
 
 #### Published    
 
-1. [_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414)    
+1. [_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://doi.org/10.1063/5.0076787)    
 Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan          
 The Journal of Chemical Physics, (2021) Accepted.    
 [BODIPYs dataset](https://moldis-group.github.io/BODIPYs/)            
