@@ -32,8 +32,7 @@ layout: default
 <img src="assets/img/20140609_190650.jpg"  height="150">
 
 <br>
-## Group Trips    
-
+## Group Trips
 [4-5 December 2021, Explorations in Telangana](moldis-group.github.io/trip_2022Dec04.md)    
 
 
