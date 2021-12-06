@@ -40,10 +40,12 @@ Hyderabad-Ramappa Lake-Pandavula Gutta (mini Trek)-Ramappa Lake (Overnight stay)
 <img src="assets/img/trip2021dec/IMG_20211204_131904.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_130423.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_105144.jpg"  height="150">
-<img src="assets/img/trip2021dec/IMG_20211204_122611.jpg"  height="150">
-<img src="assets/img/trip2021dec/IMG_20211205_085131.jpg"  height="150">
 
-Who's high?      
+The ruins, to remind what you do today can become a glorius past in the future         
+<img src="assets/img/trip2021dec/IMG_20211204_103224.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211204_103437.jpg"  height="150">
+
+Who's high(er)?      
 <img src="assets/img/trip2021dec/IMG_20211204_121533.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121617.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121715.jpg"  height="150">
