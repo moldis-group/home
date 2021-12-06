@@ -42,15 +42,21 @@ Hyderabad-Ramappa Lake-Pandavula Gutta (mini Trek)-Ramappa Lake (Overnight stay)
 <img src="assets/img/trip2021dec/IMG_20211204_105144.jpg"  height="150">
 
 Who's high?      
-<img src="assets/img/trip2021dec/IMG_20211204_121533.jpg"  height="150"><img src="assets/img/trip2021dec/IMG_20211204_121617.jpg"  height="150"><img src="assets/img/trip2021dec/IMG_20211204_121715.jpg"  height="150"><img src="assets/img/trip2021dec/IMG_20211204_121910.jpg"  height="150">      
+<img src="assets/img/trip2021dec/IMG_20211204_121533.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211204_121617.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211204_121715.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211204_121910.jpg"  height="150">      
 
 <img src="assets/img/trip2021dec/IMG_20211204_122611.jpg"  height="150">  
 
 Hardy brothers' pose   
-<img src="assets/img/trip2021dec/IMG_20211204_141210.jpg"  height="150"><img src="assets/img/trip2021dec/IMG_20211204_141416.jpg"  height="150">  
+<img src="assets/img/trip2021dec/IMG_20211204_141210.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211204_141416.jpg"  height="150">  
 
 The Lake      
-<img src="assets/img/trip2021dec/IMG_20211204_174110.jpg"  height="150"><img src="assets/img/trip2021dec/IMG_20211205_063906.jpg"  height="150"><img src="assets/img/trip2021dec/IMG_20211205_080749.jpg"  height="150">    
+<img src="assets/img/trip2021dec/IMG_20211204_174110.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211205_063906.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211205_080749.jpg"  height="150">    
 
 <img src="assets/img/trip2021dec/IMG_20211205_083433.jpg"  height="150">  
 <img src="assets/img/trip2021dec/IMG_20211205_084750.jpg"  height="150">  
@@ -60,7 +66,8 @@ The Lake
 <img src="assets/img/trip2021dec/IMG_20211205_125546.jpg"  height="150"> 
 
 When the PI takes a power nap!    
-<img src="assets/img/trip2021dec/IMG_20211205_152138.jpg"  height="150"><img src="assets/img/trip2021dec/IMG_20211205_152252.jpg"  height="150">  
+<img src="assets/img/trip2021dec/IMG_20211205_152138.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211205_152252.jpg"  height="150">  
 
 
 
