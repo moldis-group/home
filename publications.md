@@ -11,19 +11,19 @@ Prakriti Kayastha, Raghunathan Ramakrishnan
 submitted (2021)        
 [bigQM7w dataset](https://moldis-group.github.io/bigQM7w)           
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)
-       
-1. [_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414)    
-Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan          
-submitted (2021)     
-[BODIPYs dataset](https://moldis-group.github.io/BODIPYs/)            
-[Web-based QML model for querying on 253 Billion BODIPY moleucules](https://moldis.tifrh.res.in/db/bodipy)        
-
+             
 1. [ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)       
 Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan       
 submitted (2021)        
 [Pople code](https://moldis-group.github.io/pople/)     
 
 #### Published    
+
+1. [_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414)    
+Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan          
+The Journal of Chemical Physics, (2021) Accepted.    
+[BODIPYs dataset](https://moldis-group.github.io/BODIPYs/)            
+[Web-based QML model for querying on 253 Billion BODIPY moleucules](https://moldis.tifrh.res.in/db/bodipy) 
     
 1. [_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9)       
 Prakriti Kayastha, Raghunathan Ramakrishnan           
