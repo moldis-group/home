@@ -34,7 +34,7 @@ layout: default
 <br>    
 
 ## Group Trips      
-[4-5 December 2021, Explorations in Telangana](moldis-group.github.io/trip_2022Dec04)    
+[4-5 December 2021, Explorations in Telangana](https://moldis-group.github.io/trip_2022Dec04.html)    
 
 
 
