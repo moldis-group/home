@@ -36,10 +36,10 @@ layout: default
 
 #### 4-5 December 2021, Explorations in Telangana    
 Hyderabad-Ramappa Lake-Pandavula Gutta (mini Trek)-Ramappa Lake (Overnight stay)-Medaram Museum-Tadvai forest (Explore megalithic burials)-Hyderabad   
-<img src="assets/img/trip2021dec/IMG_20211204_131904.jpg"  height="150">        
-<img src="assets/img/trip2021dec/IMG_20211204_064414.jpg"  height="150">        
-<img src="assets/img/trip2021dec/IMG_20211204_130423.jpg"  height="150">        
-<img src="assets/img/trip2021dec/IMG_20211205_063906.jpg"  height="150">        
+<img src="assets/img/trip2021dec/IMG_20211204_064414.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211204_131904.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211204_130423.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211205_063906.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_125546.jpg"  height="150">        
 
 
