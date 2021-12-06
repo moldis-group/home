@@ -56,11 +56,11 @@ Hardy brothers' pose (Don't try this at home!)
 Spiderman pose (Don't try this at home!)   
 <img src="assets/img/trip2021dec/IMG_20211204_134848.jpg"  height="150">
 
-Wakanda for ever pose
+Wakanda for ever pose    
 <img src="assets/img/trip2021dec/IMG_20211204_133530.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_133547.jpg"  height="150">
 
-Bahubali pose
+Bahubali pose    
 <img src="assets/img/trip2021dec/IMG_20211204_122441.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_122506.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_122532.jpg"  height="150">
