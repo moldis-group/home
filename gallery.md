@@ -40,14 +40,15 @@ Hyderabad-Ramappa Lake-Pandavula Gutta (mini Trek)-Ramappa Lake (Overnight stay)
 <img src="assets/img/trip2021dec/IMG_20211204_131904.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_130423.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_105144.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211204_122611.jpg"  height="150">
+<img src="assets/img/trip2021dec/IMG_20211205_085131.jpg"  height="150">
 
 Who's high?      
 <img src="assets/img/trip2021dec/IMG_20211204_121533.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121617.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121715.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121910.jpg"  height="150">      
-
-<img src="assets/img/trip2021dec/IMG_20211204_122611.jpg"  height="150">  
+ 
 
 Hardy brothers' pose   
 <img src="assets/img/trip2021dec/IMG_20211204_141210.jpg"  height="150">
@@ -60,7 +61,6 @@ The Lake
 
 <img src="assets/img/trip2021dec/IMG_20211205_083433.jpg"  height="150">  
 <img src="assets/img/trip2021dec/IMG_20211205_084750.jpg"  height="150">  
-<img src="assets/img/trip2021dec/IMG_20211205_085131.jpg"  height="150">  
 <img src="assets/img/trip2021dec/IMG_20211205_124845.jpg"  height="150">  
 <img src="assets/img/trip2021dec/IMG_20211205_125341.jpg"  height="150">  
 <img src="assets/img/trip2021dec/IMG_20211205_125546.jpg"  height="150"> 
