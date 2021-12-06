@@ -61,11 +61,11 @@ The Lake
 <img src="assets/img/trip2021dec/IMG_20211205_083433.jpg"  height="150"> 
 
 Lost in Translation  
-<img src="assets/img/trip2021dec/IMG_20211205_084750.jpg"  height="150">  
+<img src="assets/img/trip2021dec/IMG_20211205_084750.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_124845.jpg"  height="150">  
 
-Three Burials in the Tadwai forest
-<img src="assets/img/trip2021dec/IMG_20211205_125341.jpg"  height="150">  
+Three Burials in the Tadwai forest    
+<img src="assets/img/trip2021dec/IMG_20211205_125341.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_125546.jpg"  height="150"> 
 
 When the PI takes a power nap!    
