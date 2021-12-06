@@ -51,10 +51,11 @@ Hardy brothers' pose
 
 
 <img src="assets/img/trip2021dec/IMG_20211204_174110.jpg"  height="150">  
-<img src="assets/img/trip2021dec/IMG_20211205_063833.jpg"  height="150">  
-<img src="assets/img/trip2021dec/IMG_20211205_063859.jpg"  height="150">  
+
+The Lake      
 <img src="assets/img/trip2021dec/IMG_20211205_063906.jpg"  height="150">
-<img src="assets/img/trip2021dec/IMG_20211205_080749.jpg"  height="150"> 
+<img src="assets/img/trip2021dec/IMG_20211205_080749.jpg"  height="150">    
+
 <img src="assets/img/trip2021dec/IMG_20211205_083433.jpg"  height="150">  
 <img src="assets/img/trip2021dec/IMG_20211205_084750.jpg"  height="150">  
 <img src="assets/img/trip2021dec/IMG_20211205_085131.jpg"  height="150">  
