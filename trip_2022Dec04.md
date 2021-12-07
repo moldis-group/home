@@ -9,24 +9,21 @@ The ruins, to remind what you do today can become a glorius past tomorrow
 <img src="assets/img/trip2021dec/IMG_20211204_103224.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_103437.jpg"  height="150">
 
-Who's high(er)?      
+Who's high?      
 <img src="assets/img/trip2021dec/IMG_20211204_121533.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121617.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121715.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121910.jpg"  height="150">      
  
-Hardy brothers' pose (Don't try this at home!)   
+Hardy brothers
 <img src="assets/img/trip2021dec/IMG_20211204_141210.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_141416.jpg"  height="150">  
 
-Spiderman pose (Don't try this at home!)   
-<img src="assets/img/trip2021dec/IMG_20211204_134848.jpg"  height="150">
-
-Wakanda forever pose    
+Wakanda forever
 <img src="assets/img/trip2021dec/IMG_20211204_133530.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_133547.jpg"  height="150">
 
-Bahubali pose    
+Bahubali    
 <img src="assets/img/trip2021dec/IMG_20211204_122441.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_122506.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_122532.jpg"  height="150">
