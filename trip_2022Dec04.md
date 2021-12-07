@@ -19,10 +19,6 @@ Hardy brothers
 <img src="assets/img/trip2021dec/IMG_20211204_141210.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_141416.jpg"  height="150">  
 
-Wakanda forever    
-<img src="assets/img/trip2021dec/IMG_20211204_133530.jpg"  height="150">
-<img src="assets/img/trip2021dec/IMG_20211204_133547.jpg"  height="150">
-
 Bahubali    
 <img src="assets/img/trip2021dec/IMG_20211204_122441.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_122506.jpg"  height="150">
