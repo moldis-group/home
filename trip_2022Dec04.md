@@ -9,7 +9,7 @@ The ruins
 <img src="assets/img/trip2021dec/IMG_20211204_103224.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_103437.jpg"  height="150">
 
-The rocks
+The rocks   
 <img src="assets/img/trip2021dec/IMG_20211204_121533.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121617.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121715.jpg"  height="150">
@@ -24,10 +24,10 @@ The rocks
 The Lake      
 <img src="assets/img/trip2021dec/IMG_20211204_174110.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_063906.jpg"  height="150">
-<img src="assets/img/trip2021dec/IMG_20211205_080749.jpg"  height="150">    
+<img src="assets/img/trip2021dec/IMG_20211205_080749.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_083433.jpg"  height="150"> 
 
-Search for Megalithic burials 
+Search for Megalithic burials    
 <img src="assets/img/trip2021dec/IMG_20211205_084750.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_124845.jpg"  height="150">  
 <img src="assets/img/trip2021dec/IMG_20211205_125341.jpg"  height="150">
