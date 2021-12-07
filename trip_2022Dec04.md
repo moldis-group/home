@@ -15,11 +15,11 @@ Who's high?
 <img src="assets/img/trip2021dec/IMG_20211204_121715.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_121910.jpg"  height="150">      
  
-Hardy brothers
+Hardy brothers    
 <img src="assets/img/trip2021dec/IMG_20211204_141210.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_141416.jpg"  height="150">  
 
-Wakanda forever
+Wakanda forever    
 <img src="assets/img/trip2021dec/IMG_20211204_133530.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_133547.jpg"  height="150">
 
