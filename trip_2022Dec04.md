@@ -29,7 +29,7 @@ The Lake
 
 Search for Megalithic burials    
 <img src="assets/img/trip2021dec/IMG_20211205_084750.jpg"  height="150">
-<img src="assets/img/trip2021dec/IMG_20211205_124845.jpg"  height="150">  
+<img src="assets/img/trip2021dec/IMG_20211205_124845.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_125341.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_125546.jpg"  height="150"> 
 
