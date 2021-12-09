@@ -45,16 +45,16 @@ Sambit Kumar Das
 – Since October 2019, Doctoral student at the Department of Mathematics, University of York, UK      
 
 ### Former Visiting Students      
-[Ahana Ghosh](https://scholar.google.com/citations?user=82ubzWoAAAAJ&hl=en&oi=ao), 2016, presently doctoral student at the Max Planck Institute For Software Systems, Saarbrucken, Germany     
-Manvi Gupta, 2017      
-[Anjana R Kammath](https://scholar.google.com/citations?hl=en&user=OcH1KewAAAAJ), 2017, presently doctoral student at Yale Univerrity, USA     
-Rishabh Gupta, 2017      
-Sharanya Srinivasan, 2018      
-[Sowmya Krishnan](https://scholar.google.com/citations?user=C33jR_MAAAAJ&hl=en&oi=ao), 2018, presently researcher at the TCS Research and Innovation Lab, India   
-Divya Suman, 2018, presently doctoral Student at EPFL, Lausanne, Switzerland      
-Merlyn Baby, 2018, presently masters student at Queen Mary University, London, UK    
-Jaslin Kaur, 2019      
-Rukhsar Chougle, 2019      
+2016, [Ahana Ghosh](https://scholar.google.com/citations?user=82ubzWoAAAAJ&hl=en&oi=ao), presently doctoral student at the Max Planck Institute For Software Systems, Saarbrucken, Germany     
+2017, Manvi Gupta        
+2017, [Anjana R Kammath](https://scholar.google.com/citations?hl=en&user=OcH1KewAAAAJ), presently doctoral student at Yale University, USA     
+2017, Rishabh Gupta      
+2018, Sharanya Srinivasan      
+2018, [Sowmya Krishnan](https://scholar.google.com/citations?user=C33jR_MAAAAJ&hl=en&oi=ao), presently researcher at the TCS Research and Innovation Lab, India   
+2018, Divya Suman, presently doctoral Student at EPFL, Lausanne, Switzerland      
+2018, Merlyn Baby, presently masters student at Queen Mary University, London, UK    
+2019, Jaslin Kaur      
+2019, Rukhsar Chougle        
 
 
 
