@@ -50,7 +50,7 @@ Manvi Gupta, 2017
 [Anjana R Kammath](https://scholar.google.com/citations?hl=en&user=OcH1KewAAAAJ), 2017, presently doctoral student at Yale Univerrity, USA     
 Rishabh Gupta, 2017      
 Sharanya Srinivasan, 2018      
-[Sowmya Krishnan](https://scholar.google.com/citations?user=C33jR_MAAAAJ&hl=en&oi=ao), 2018, presently researcher at the TCS Research and Innovation Lab, India
+[Sowmya Krishnan](https://scholar.google.com/citations?user=C33jR_MAAAAJ&hl=en&oi=ao), 2018, presently researcher at the TCS Research and Innovation Lab, India   
 Divya Suman, 2018, presently doctoral Student at EPFL, Lausanne, Switzerland      
 Merlyn Baby, 2018, presently masters student at Queen Mary University, London, UK    
 Jaslin Kaur, 2019      
