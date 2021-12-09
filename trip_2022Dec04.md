@@ -22,6 +22,7 @@ The rocks
 <img src="assets/img/trip2021dec/IMG_20211204_130423.jpg"  height="150">
 
 The Lake      
+<img src="assets/img/trip2021dec/20211204_162041.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211204_174110.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_063906.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_080749.jpg"  height="150">
