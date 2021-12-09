@@ -25,7 +25,9 @@ The Lake
 <img src="assets/img/trip2021dec/IMG_20211204_174110.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_063906.jpg"  height="150">
 <img src="assets/img/trip2021dec/IMG_20211205_080749.jpg"  height="150">
-<img src="assets/img/trip2021dec/IMG_20211205_083433.jpg"  height="150"> 
+<img src="assets/img/trip2021dec/IMG_20211205_083433.jpg"  height="150">
+<img src="assets/img/trip2021dec/20211204_180425.jpg"  height="150">
+<img src="assets/img/trip2021dec/20211205_063944.jpg"  height="150">
 
 Search for Megalithic burials    
 <img src="assets/img/trip2021dec/IMG_20211205_084750.jpg"  height="150">
