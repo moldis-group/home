@@ -45,14 +45,18 @@ Sambit Kumar Das
 – Since October 2019, Doctoral student at the Department of Mathematics, University of York, UK      
 
 ### Former Visiting Students      
-[Ahana Ghosh](https://scholar.google.com/citations?user=82ubzWoAAAAJ&hl=en&oi=ao), 2016      
+[Ahana Ghosh](https://scholar.google.com/citations?user=82ubzWoAAAAJ&hl=en&oi=ao), 2016  
+- Since 2018, Doctoral student at the Max Planck Institute For Software Systems, Saarbrucken, Germany     
 Manvi Gupta, 2017      
-[Anjana R Kammath](https://scholar.google.com/citations?hl=en&user=OcH1KewAAAAJ), 2017      
+[Anjana R Kammath](https://scholar.google.com/citations?hl=en&user=OcH1KewAAAAJ), 2017     
+- Since 2019, Doctoral student at Yale Univerrity, USA     
 Rishabh Gupta, 2017      
 Sharanya Srinivasan, 2018      
-[Sowmya Krishnan](https://scholar.google.com/citations?user=C33jR_MAAAAJ&hl=en&oi=ao), 2018      
+[Sowmya Krishnan](https://scholar.google.com/citations?user=C33jR_MAAAAJ&hl=en&oi=ao), 2018    
+- Since 2020, TCS Research and Innovation Lab, India
 Divya Suman, 2018      
-Merlyn Baby, 2018      
+Merlyn Baby, 2018     
+- Since 2021, Masters student at Queen Mary University, London, UK    
 Jaslin Kaur, 2019      
 Rukhsar Chougle, 2019      
 
