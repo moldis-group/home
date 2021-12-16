@@ -23,7 +23,8 @@ submitted (2021)
 Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan          
 The Journal of Chemical Physics, (2021) in press.    
 [BODIPYs dataset](https://moldis-group.github.io/BODIPYs/)            
-[Web-based QML model for querying on 253 Billion BODIPY moleucules](https://moldis.tifrh.res.in/db/bodipy) 
+[Web-based QML model for querying on 253 Billion BODIPY moleucules](https://moldis.tifrh.res.in/db/bodipy)     
+Special Issue: [Chemical Design by Artificial Intelligence](https://aip.scitation.org/toc/jcp/collection/10.1063/jcp.2022.CHAI2021.issue-1)  
     
 1. [_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9)       
 Prakriti Kayastha, Raghunathan Ramakrishnan           
@@ -49,6 +50,7 @@ The Journal of Chemical Physics, 154 (2021) 061102.
 [Supplementary Information: PDF file](https://aip.scitation.org/doi/suppl/10.1063/5.0041717/suppl_file/suppinfo.pdf)                           
 [MolDis data-mining platform](https://moldis.tifrh.res.in/data/rmq1d)                 
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.02.03-1)
+Special Issue: [Computational Materials Discovery](https://aip.scitation.org/toc/jcp/collection/10.1063/jcp.2021.COMMA2021.issue-1)    
 
 1. [_Critical Benchmarking of the G4(MP2) Model, the Correlation Consistent Composite Approach and Popular Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies_](https://doi.org/10.1063/5.0032713)                  
 Sambit Kumar Das, Sabyasachi Chakraborty, Raghunathan Ramakrishnan                    
