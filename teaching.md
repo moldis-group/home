@@ -1,11 +1,17 @@
 ## Numerical Methods for Quantum Mechanics: A mini-course
 
+The presentation and the notebooks are prepared for the lecture Numerical Approaches for Quantum Mechanics on 30 December 2021 as a part of the program
+[National Initiative on Undergraduate Science (NIUS)](https://nius.hbcse.tifr.res.in/). NIUS is an initiative of the [Homi Bhabha Centre for Science Education, TIFR](https://www.hbcse.tifr.res.in/).
+
 ![](https://github.com/raghurama123/NumQM_Basic)
 <a href="https://github.com/raghurama123/NumQM_Basic">
 <img src="https://raw.githubusercontent.com/raghurama123/NumQM_Basic/main/img/NumQM.png"  height="100">
 </a>
 
 ## Computer-based Exercises in Physical Chemistry: A mini-course
+
+The presentation and the notebooks are prepared for the lecture Computer-based Exercises in Physical Chemistry on 26 December 2021 as a part of the program
+[National Initiative on Undergraduate Science (NIUS)](https://nius.hbcse.tifr.res.in/). NIUS is an initiative of the [Homi Bhabha Centre for Science Education, TIFR](https://www.hbcse.tifr.res.in/).
 
 ![](https://github.com/raghurama123/Comp_PhysChem_Basic)
 <a href="https://github.com/raghurama123/Comp_PhysChem_Basic">
