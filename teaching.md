@@ -9,7 +9,7 @@
 
 ![](https://github.com/raghurama123/Comp_PhysChem_Basic)
 <a href="https://github.com/raghurama123/Comp_PhysChem_Basic">
-<img src="https://raw.githubusercontent.com/raghurama123/Comp_PhysChem_Basic/blob/main/img/Comp_PhysChem.png"  height="100">
+<img src="https://raw.githubusercontent.com/raghurama123/Comp_PhysChem_Basic/main/img/Comp_PhysChem.png"  height="100">
 </a>
 
 ## Quantum Mechanics 1, PHY-106.7/CHM-104.7
