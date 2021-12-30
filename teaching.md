@@ -8,6 +8,8 @@ The presentation and the notebooks are prepared for the lecture Numerical Approa
 <img src="https://raw.githubusercontent.com/raghurama123/NumQM_Basic/main/img/NumQM.png"  height="100">
 </a>
 
+* * *
+
 ## Computer-based Exercises in Physical Chemistry: A mini-course
 
 The presentation and the notebooks are prepared for the lecture Computer-based Exercises in Physical Chemistry on 26 December 2021 as a part of the program
@@ -17,6 +19,8 @@ The presentation and the notebooks are prepared for the lecture Computer-based E
 <a href="https://github.com/raghurama123/Comp_PhysChem_Basic">
 <img src="https://raw.githubusercontent.com/raghurama123/Comp_PhysChem_Basic/main/img/Comp_PhysChem.png"  height="100">
 </a>
+
+* * *
 
 ## Quantum Mechanics 1, PHY-106.7/CHM-104.7
 
