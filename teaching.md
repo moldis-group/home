@@ -1,3 +1,17 @@
+## Numerical Methods for Quantum Mechanics: A mini-course
+
+![](https://github.com/raghurama123/NumQM_Basic)
+<a href="https://github.com/raghurama123/NumQM_Basic">
+<img src="https://github.com/raghurama123/NumQM_Basic/blob/main/img/NumQM.png"  height="100">
+</a>
+
+## Computer-based Exercises in Physical Chemistry: A mini-course
+
+![](https://github.com/raghurama123/Comp_PhysChem_Basic)
+<a href="https://github.com/raghurama123/Comp_PhysChem_Basic">
+<img src="https://github.com/raghurama123/Comp_PhysChem_Basic/blob/main/img/Comp_PhysChem.png"  height="100">
+</a>
+
 ## Quantum Mechanics 1, PHY-106.7/CHM-104.7
 
 Course outline: [2021_QM1.pdf](teaching/2021_QM1.pdf)
