@@ -24,6 +24,7 @@ Our work depends on high-performance computation.
         
 We use quantum chemistry and materials simulation software developed by research groups across the world.    
 
+<!--
 <a href="https://fhi-aims.org/">
 <img src="assets/img/aims.svg"  height="150">
 </a>
@@ -66,6 +67,8 @@ We apply kernel-based Quantum Machine Learning using the QML code and our own _i
 We have access to journals and books relevant to our research.           
 
 <img src="assets/img/books.jpeg"  height="150">
+
+-->
  
 * * *
 
