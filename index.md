@@ -14,7 +14,7 @@ MolDis, our big data analytics platform for MOLecular DIScovery is now open for 
 </a>
 
 ### Research tools
-Our work depends on high-performance computation.        
+Our work depends heavily on high-performance computation.        
 
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
@@ -22,7 +22,7 @@ Our work depends on high-performance computation.
 <img src="assets/img/nodes.jpeg"  height="150">
        
         
-We use quantum chemistry and materials simulation software developed by research groups across the world.    
+We use several quantum chemistry and materials modeling software developed by research groups across the world.    
 
 <!--
 <a href="https://fhi-aims.org/">
@@ -69,7 +69,6 @@ We have access to journals and books relevant to our research.
 <img src="assets/img/books.jpeg"  height="150">
 
 -->
- 
 * * *
 
 
