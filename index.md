@@ -14,7 +14,7 @@ MolDis, our big data analytics platform for MOLecular DIScovery is now open for 
 </a>
 
 ### Research tools
-Our work depends heavily on high-performance computation.        
+Our work depends on high-performance computation.        
 
 <img src="assets/img/earth.jpeg"  height="150">
 <img src="assets/img/helios.jpeg"  height="150">
