@@ -61,38 +61,11 @@ The codes written for the course will be maintained here: [https://github.com/ra
 
 ## Numerical Methods, PHY-102.7/CHM-116.7
 
-Course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
+Tentative course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
 
-#### _Syllabus:_      
+#### _Syllabus and Course material:_ 
 
-1. Python: Writing/running codes, Jupyter notebooks, modules
-
-2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method
-
-3. Data Modeling: Approximations: least squares fitting; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
-
-4. Root finding: The problem, fixed-point iteration, bisection method, Newton-Raphson method (1-D and n-D), Jacobian matrix, pseudo-inverse, quasi-Newton method (1-D: secant method, n-D: Broyden), `scipy.optimize` 
-
-5. Optimization/Minimization: 1-D problems, n-D problems, `scipy.optimize.minimize(method=’L-BFGS-B’)`, Simplex method, `scipy.optimize.minimize(method=’Nelder-Mead’)`, How to select an optimization method?
-
-6. Numerical Differentiation: Finite difference; Error analysis
-
-7. Numerical Integration: Newton-Cotes formulae, Romberg/Gaussian integration, Multiple integrals
-
-8. Initial Value Problems: Euler/Runge-Kutta methods; Stability and Stiffness
-
-9. Boundary Value Problems: Shooting Method
-
-10. Symmetric Matrix Eigenvalue Problems: Jacobi rotations, Power/inverse power method, Tridiagonal form
-
-11. Application to Chemical Physics: Molecular thermodynamics (Ideal gas, harmonic oscillator, rigid rotor partition functions), Equation of states, Schroedinger equation of Hydrogen molecule cation, Hartree-Fock for He atom, Linear variational problems in Quantum mechanics (1D potentials, Tunneling problems), Potential energy surface fitting, Time-dependent Schroedinger equation. 
-
-12. Optional Topics: Krylov Subspace Techniques, Lanczos iteration, Iterative linear solvers, Non-linear regression, Matrices: Rank and condition numbers
-
-#### _Course material:_ 
-
-Source files at [https://github.com/raghurama123/nm2021](https://github.com/raghurama123/nm2021)     
-Interactive notebooks at [https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD](https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD)
+[https://github.com/raghurama123/NumericalMethods](https://github.com/raghurama123/NumericalMethods)     
 
 #### _References:_     
 Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).      
@@ -107,3 +80,14 @@ Numerical Methods, W. Boehm, H. Prautzsch, Universities Press, 2000.
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)    
 
 * * *
+
+## Data Science, CHM-255.7
+
+Tentative course outline: [2021_DataScience.pdf](teaching/2021_DataScience.pdf)
+
+#### _Syllabus and Course material:_ 
+
+[https://github.com/raghurama123/DataScience](https://github.com/raghurama123/DataScience)     
+
+* * *
+
