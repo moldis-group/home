@@ -22,6 +22,26 @@ The presentation and the notebooks are prepared for the lecture Computer-based E
 
 * * *
 
+## Numerical Methods, PHY-102.7/CHM-116.7
+
+Tentative course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
+
+#### _Latest syllabus and Course material:_ 
+
+[https://github.com/raghurama123/NumericalMethods](https://github.com/raghurama123/NumericalMethods)     
+
+* * *
+
+## Data Science, CHM-255.7
+
+Tentative course outline: [2021_DataScience.pdf](teaching/2021_DataScience.pdf)
+
+#### _Latest syllabus and Course material:_ 
+
+[https://github.com/raghurama123/DataScience](https://github.com/raghurama123/DataScience)     
+
+* * *
+
 ## Quantum Mechanics 1, PHY-106.7/CHM-104.7
 
 Course outline: [2021_QM1.pdf](teaching/2021_QM1.pdf)
@@ -58,24 +78,3 @@ Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-2, 2
 The codes written for the course will be maintained here: [https://github.com/raghurama123/QuantumMechanics](https://github.com/raghurama123/QuantumMechanics)
 
 * * *
-
-## Numerical Methods, PHY-102.7/CHM-116.7
-
-Tentative course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
-
-#### _Latest syllabus and Course material:_ 
-
-[https://github.com/raghurama123/NumericalMethods](https://github.com/raghurama123/NumericalMethods)     
-
-* * *
-
-## Data Science, CHM-255.7
-
-Tentative course outline: [2021_DataScience.pdf](teaching/2021_DataScience.pdf)
-
-#### _Latest syllabus and Course material:_ 
-
-[https://github.com/raghurama123/DataScience](https://github.com/raghurama123/DataScience)     
-
-* * *
-
