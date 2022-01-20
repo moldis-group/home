@@ -11,15 +11,7 @@ layout: default
 Saurabh Chandra Kandpal           
 Susmita Tripathy       
 [Sai Vijay Mocherla](https://vijaymocherla.github.io/)    
-
-### Ab initio Simulation    
-Raghunathan Ramakrishnan      
-Jagannath Mondal       
-Sowmya Ghosh      
-Karthik V. Raman         
-Tharangattu N. Narayanan          
-Kalyan Kumar         
-
+      
 ### Alumni
 [Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en)      
 – B.Sc. in Physics, Shiv Nadar University, Noida, India      
