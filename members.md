@@ -10,7 +10,15 @@ layout: default
 [Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)              
 Saurabh Chandra Kandpal           
 Susmita Tripathy       
-[Sai Vijay Mocherla](https://vijaymocherla.github.io/)      
+[Sai Vijay Mocherla](https://vijaymocherla.github.io/)    
+
+### Ab initio Simulation    
+Raghunathan Ramakrishnan      
+Jagannath Mondal       
+Sowmya Ghosh      
+Karthik V. Raman         
+TTharangattu N. Narayanan          
+Kalyan Kumar         
 
 ### Alumni
 [Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en)      
