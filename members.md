@@ -17,7 +17,7 @@ Raghunathan Ramakrishnan
 Jagannath Mondal       
 Sowmya Ghosh      
 Karthik V. Raman         
-TTharangattu N. Narayanan          
+Tharangattu N. Narayanan          
 Kalyan Kumar         
 
 ### Alumni
