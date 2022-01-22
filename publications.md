@@ -34,7 +34,8 @@ Machine Learning: Science and Technology, 2 (2021) 035035.
 
 1. [_Troubleshooting Unstable Molecules in Chemical Space_](https://doi.org/10.1039/D0SC05591C)            
 Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan                   
-Chemical Science 12 (2021) 5566.                   
+Chemical Science 12 (2021) 5566.              
+[Features in 2021 Chemical Science Editor's Choice](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=sc&themeid=af6970b2-9e7b-4092-b00c-b162aeb9f645)     
 [Supplementary Information: PDF file](http://www.rsc.org/suppdata/d0/sc/d0sc05591c/d0sc05591c1.pdf)               
 [ConnGO code](https://github.com/salinisenthil/ConnGO)                 
 [Curated QM9 dataset](https://moldis-group.github.io/curatedQM9/)                   
@@ -72,6 +73,7 @@ The Journal of Chemical Physics,150 (2019) 144114.
 1. [_The Chemical Space of B,N-substituted Polycyclic Aromatic Hydrocarbons: Combinatorial Enumeration and High-Throughput First-Principles Modeling_](https://doi.org/10.1063/1.5088083)                         
 Sabyasachi Chakraborty, Prakriti Kayastha, Raghunathan Ramakrishnan                  
 The Journal of Chemical Physics,150 (2019) 114106.           
+[Features in 2019 JCP Editors' Choice](https://aip.scitation.org/toc/jcp/collection/10.1063/jcp.2020.EDCH2019.issue-1)    
 [BNPAH dataset](https://drive.google.com/open?id=1rGzoE5f7sLy1NUPsIhao3b1tgPDB_RDC)            
 
 1. [_Exact separation of radial and angular correlation energies in two-electron atoms_](https://doi.org/10.1016/j.cplett.2019.02.004)                
