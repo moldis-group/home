@@ -72,7 +72,8 @@ The Journal of Chemical Physics,150 (2019) 144114.
 
 1. [_The Chemical Space of B,N-substituted Polycyclic Aromatic Hydrocarbons: Combinatorial Enumeration and High-Throughput First-Principles Modeling_](https://doi.org/10.1063/1.5088083)                         
 Sabyasachi Chakraborty, Prakriti Kayastha, Raghunathan Ramakrishnan                  
-The Journal of Chemical Physics,150 (2019) 114106.           
+The Journal of Chemical Physics,150 (2019) 114106. 
+JCP Featured Article             
 [Features in 2019 JCP Editors' Choice](https://aip.scitation.org/toc/jcp/collection/10.1063/jcp.2020.EDCH2019.issue-1)    
 [BNPAH dataset](https://drive.google.com/open?id=1rGzoE5f7sLy1NUPsIhao3b1tgPDB_RDC)            
 
