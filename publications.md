@@ -3,22 +3,7 @@ layout: default
 ---
 
 ## Publications      
-
-#### Under consideration
-
-1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798)    
-Prakriti Kayastha, Raghunathan Ramakrishnan     
-submitted (2021)        
-[bigQM7w dataset](https://moldis-group.github.io/bigQM7w)           
-[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)
-             
-1. [ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)       
-Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan       
-submitted (2021)        
-[Pople code](https://moldis-group.github.io/pople/)     
-
-#### Published    
-
+ 
 1. [_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://doi.org/10.1063/5.0076787)    
 Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan          
 The Journal of Chemical Physics, 155 (2021) 244102.    
@@ -172,6 +157,20 @@ Physics Review A, 85 (2012) 054501.
 1.  [_Manifestation of diamagnetic chemical shifts of proton NMR signals by an anisotropic shielding effect of nitrate anions_](http://www.sciencedirect.com/science/article/pii/S0040403906024154)   
     Himansu Sekhar Sahoo, Dillip Kumar Chand, S. Mahalakshmi, Md. Hedayetullah Mir, Raghunathan Ramakrishnan      
     Tetrahedron letters, 48 (2007) 761–765.
+    
+ 
+#### Submitted
+
+1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798)    
+Prakriti Kayastha, Raghunathan Ramakrishnan     
+submitted (2021)        
+[bigQM7w dataset](https://moldis-group.github.io/bigQM7w)           
+[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)
+             
+1. [ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)       
+Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan       
+submitted (2021)        
+[Pople code](https://moldis-group.github.io/pople/)    
 
 
 
