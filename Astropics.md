@@ -12,10 +12,12 @@ Jupiter and the Galilean moons: Io, Europa, Ganymede and Callisto
 <img src="astropics/20220118_184110.jpg"  height="350">    
 
  Sirus      
-<img src="astropics/20220121_200852.jpg"  height="350">     
+<img src="astropics/20220121_200852.jpg"  height="350">
 <img src="astropics/20220123_225942.jpg"  height="350">  
 
-<img src="astropics/20220122_200552.jpg"  height="350">   
+Orion Nebula    
+<img src="astropics/20220122_200552.jpg"  height="350">
 <img src="astropics/20220123_224439.jpg"  height="350">   
  
+Assorted   
 <img src="astropics/20220128.JPG"  height="150">   
