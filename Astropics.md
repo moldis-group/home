@@ -15,7 +15,7 @@ Jupiter and the Galilean moons: Io, Europa, Ganymede and Callisto
 <img src="astropics/20220121_200852.jpg"  height="400">
 <img src="astropics/20220123_225942.jpg"  height="400">  
 
-Orion
+Orion    
 <img src="astropics/20220122_195151.png"  height="400">  
 
 Orion Nebula    
