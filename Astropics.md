@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Our office roof top is a nice place to spend the evening. It is calm out there and at night offers a great view of the sky. Here are some pics clicked from there.
+## Our office roof top offers a great view of the sky. Here are some pics clicked from there.
 
 The Moon        
 <img src="astropics/20220117_191254.jpg"  height="400">
