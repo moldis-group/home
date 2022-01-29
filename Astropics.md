@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Our office roof top offers a great view of the sky. Here are some pics clicked from there.
+## Our office roof top can offer a great view of the night sky. Here are some pics clicked from there.
 
 The Moon        
 <img src="astropics/20220117_191254.jpg"  height="400">
