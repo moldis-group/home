@@ -44,7 +44,7 @@ Sambit Kumar Das
 – (October 2018 – September 2019, Junior Research Fellow with us)      
 – Since October 2019, Doctoral student at the Department of Mathematics, University of York, UK      
 
-### Visiting Students      
+### Former visiting Students      
 2016, [Ahana Ghosh](https://scholar.google.com/citations?user=82ubzWoAAAAJ&hl=en&oi=ao), presently doctoral student at the Max Planck Institute For Software Systems, Saarbrucken, Germany     
 2017, Manvi Gupta        
 2017, [Anjana R Kammath](https://scholar.google.com/citations?hl=en&user=OcH1KewAAAAJ), presently doctoral student at Yale University, USA     
