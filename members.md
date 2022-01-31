@@ -4,13 +4,11 @@ layout: default
 
 ## Present members
 
-[Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)      
-      
-### Junior Researchers
-[Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)              
-Saurabh Chandra Kandpal           
-Susmita Tripathy       
-[Sai Vijay Mocherla](https://vijaymocherla.github.io/)    
+[Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en), PI      
+[Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en), Graduate student                  
+Saurabh Chandra Kandpal, Graduate student                 
+Susmita Tripathy, Graduate student             
+[Sai Vijay Mocherla](https://vijaymocherla.github.io/), Junior research fellow       
       
 ### Past members
 [Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en)      
