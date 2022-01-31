@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Members
+## Present members
 
 [Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)      
       
@@ -12,7 +12,7 @@ Saurabh Chandra Kandpal
 Susmita Tripathy       
 [Sai Vijay Mocherla](https://vijaymocherla.github.io/)    
       
-### Alumni
+### Past members
 [Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en)      
 – B.Sc. in Physics, Shiv Nadar University, Noida, India      
 – (2017 VSRP fellow with us)      
