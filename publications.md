@@ -59,7 +59,7 @@ The Journal of Chemical Physics,150 (2019) 144114.
 Sabyasachi Chakraborty, Prakriti Kayastha, Raghunathan Ramakrishnan                  
 The Journal of Chemical Physics,150 (2019) 114106. 
 JCP Featured Article             
-[Features in 2019 JCP Editors' Choice](https://aip.scitation.org/toc/jcp/collection/10.1063/jcp.2020.EDCH2019.issue-1)    
+Features in [2019 JCP Editors' Choice](https://aip.scitation.org/toc/jcp/collection/10.1063/jcp.2020.EDCH2019.issue-1)    
 [BNPAH dataset](https://drive.google.com/open?id=1rGzoE5f7sLy1NUPsIhao3b1tgPDB_RDC)            
 
 1. [_Exact separation of radial and angular correlation energies in two-electron atoms_](https://doi.org/10.1016/j.cplett.2019.02.004)                
