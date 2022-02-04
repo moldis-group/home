@@ -20,7 +20,7 @@ Machine Learning: Science and Technology, 2 (2021) 035035.
 1. [_Troubleshooting Unstable Molecules in Chemical Space_](https://doi.org/10.1039/D0SC05591C)            
 Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan                   
 Chemical Science 12 (2021) 5566.              
-[Features in 2021 Chemical Science Editor's Choice](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=sc&themeid=af6970b2-9e7b-4092-b00c-b162aeb9f645)     
+Features in [2021 Chemical Science Editor's Choice](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=sc&themeid=af6970b2-9e7b-4092-b00c-b162aeb9f645)     
 [Supplementary Information: PDF file](http://www.rsc.org/suppdata/d0/sc/d0sc05591c/d0sc05591c1.pdf)               
 [ConnGO code](https://github.com/salinisenthil/ConnGO)                 
 [Curated QM9 dataset](https://moldis-group.github.io/curatedQM9/)                   
