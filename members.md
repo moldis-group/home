@@ -16,7 +16,7 @@ Susmita Tripathy, Graduate student
 – (2017 VSRP fellow with us)      
 – (June 2018 – May 2020, Junior Research Fellow with us)      
 – (May 2020 – September 2021, Senior Research Fellow with us)      
-– Since October 2021, Doctoral student at the Department of Mathematics, Physics and Electrical Engineering, Northumbria University, UK.      
+– Since October 2021, Doctoral student at the Department of Mathematics, Physics and Electrical Engineering, Northumbria University, UK      
 
 [Salini Senthil](https://scholar.google.com/citations?user=gQqXsJAAAAAJ&hl=en)      
 – B.Tech in Electrochemistry, Central Electrochemical Research Institute, Karaikudi, India      
