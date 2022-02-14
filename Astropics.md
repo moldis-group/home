@@ -11,7 +11,7 @@ The Moon
 Jupiter and the Galilean moons: Io, Europa, Ganymede and Callisto       
 <img src="astropics/20220118_184110.jpg"  height="400">    
 
- Sirus      
+ Sirius      
 <img src="astropics/20220121_200852.jpg"  height="400">
 <img src="astropics/20220123_225942.jpg"  height="400">  
 
