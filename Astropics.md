@@ -9,7 +9,8 @@ layout: default
 <img src="astropics/20220118_185249.jpg"  height="400">   
 
 ### Venus     
-<img src="astropics/20220216_062000.png"  height="400">    
+<img src="astropics/20220216_062000.png"  height="400">       
+<img src="astropics/20220216_062218.png"  height="400">      
      
 ### Jupiter and the Galilean moons: Io, Europa, Ganymede and Callisto       
 <img src="astropics/20220118_184110.jpg"  height="400">    
