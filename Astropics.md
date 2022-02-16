@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Here are some pics clicked from the office roof-top.
+## Here are some pics clicked from the office roof-top
 
 ### The Moon        
 <img src="astropics/20220117_191254.jpg"  height="400">
