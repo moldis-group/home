@@ -23,8 +23,7 @@ layout: default
 <img src="astropics/20220122_195151.png"  height="400">  
 
 ### Orion Nebula    
-<img src="astropics/20220122_200552.jpg"  height="400">
-<img src="astropics/20220123_224439.jpg"  height="400">   
+<img src="astropics/20220122_200552.jpg"  height="400">   
 
 ### ISS     
 <img src="astropics/20220216_060440.png" height="400">       
