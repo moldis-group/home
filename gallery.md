@@ -36,10 +36,7 @@ layout: default
 ## Group Trips      
 [4-5 December 2021, Explorations in Telangana](https://moldis-group.github.io/trip_2022Dec04.html)    
 
-<br>    
 
-## Astropics    
-[Roof top astronomy activity](https://moldis-group.github.io/Astropics.html)      
 
 
 
