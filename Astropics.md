@@ -20,7 +20,9 @@ layout: default
 <img src="astropics/20220123_225942.jpg"  height="600">  
 
 ### Orion    
-<img src="astropics/20220122_195151.png"  height="600">  
+<img src="astropics/20220122_195151.png"  height="600">    
+<img src="astropics/orion.png"  height="600">
+<img src="astropics/orion.JPG"  height="600">
 
 ### Orion Nebula    
 <img src="astropics/20220122_200552.jpg"  height="600">   
