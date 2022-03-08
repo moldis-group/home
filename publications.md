@@ -159,17 +159,18 @@ Physics Review A, 85 (2012) 054501.
     Tetrahedron letters, 48 (2007) 761–765.
     
  
-#### Submitted
+#### Preprints
+
+1. [ _Understanding the role of intramolecular ion-pair interactions in conformational stability using an ab initio thermodynamic cycle_](http://arxiv.org/abs/2203.03478)       
+Sabyasachi Chakraborty, Kalyaneswar Mandal, Raghunathan Ramakrishnan             
 
 1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798)    
-Prakriti Kayastha, Raghunathan Ramakrishnan     
-submitted (2021)        
+Prakriti Kayastha, Raghunathan Ramakrishnan           
 [bigQM7w dataset](https://moldis-group.github.io/bigQM7w)           
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)
              
 1. [ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)       
-Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan       
-submitted (2021)        
+Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan             
 [Pople code](https://moldis-group.github.io/pople/)    
 
 
