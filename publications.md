@@ -165,9 +165,11 @@ Physics Review A, 85 (2012) 054501.
 Sabyasachi Chakraborty, Kalyaneswar Mandal, Raghunathan Ramakrishnan             
 
 1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798)    
-Prakriti Kayastha, Raghunathan Ramakrishnan           
+Prakriti Kayastha, Sabyasachi Chakraborty, Raghunathan Ramakrishnan           
 [bigQM7w dataset](https://moldis-group.github.io/bigQM7w)           
-[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)
+[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)   
+[Data-mining platform on Moldis](http://moldis.tifrh.res.in/datasets.html)   
+[Machine learning model](https://github.com/moldis-group/bigQM7w/tree/main/ML_spectrum)   
              
 1. [ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)       
 Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan             
