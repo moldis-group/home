@@ -44,7 +44,7 @@ Sambit Kumar Das
 
 ### Former visiting Students      
 2016, [Ahana Ghosh](https://scholar.google.com/citations?user=82ubzWoAAAAJ&hl=en&oi=ao), presently doctoral student at the Max Planck Institute For Software Systems, Saarbrucken, Germany     
-2017, Manvi Gupta        
+2017, Manvi Gupta, presently masters student at the School of Computer Science, Carnegie Mellon  University, USA       
 2017, [Anjana R Kammath](https://scholar.google.com/citations?hl=en&user=OcH1KewAAAAJ), presently doctoral student at Yale University, USA     
 2017, Rishabh Gupta      
 2018, Sharanya Srinivasan      
