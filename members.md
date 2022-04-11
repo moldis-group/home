@@ -11,7 +11,7 @@ Susmita Tripathy, Graduate student
 [Sai Vijay Mocherla](https://vijaymocherla.github.io/), Junior research fellow       
       
 ### Past members
-[Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en)      
+[Prakriti Kayastha](https://prakayastha.github.io/)      
 – B.Sc. in Physics, Shiv Nadar University, Noida, India      
 – (2017 VSRP fellow with us)      
 – (June 2018 – May 2020, Junior Research Fellow with us)      
