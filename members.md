@@ -9,6 +9,9 @@ layout: default
 Saurabh Chandra Kandpal, Graduate student                 
 Susmita Tripathy, Graduate student             
 [Sai Vijay Mocherla](https://vijaymocherla.github.io/), Junior research fellow       
+
+### Present visiting Students   
+Saminur Rahaman, BS/MS-Physics (IISER-Kolkata) long-term visiting student under the NIUS program   
       
 ### Past members
 [Prakriti Kayastha](https://prakayastha.github.io/)      
