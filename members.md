@@ -5,6 +5,9 @@ layout: default
 ## Present members
 
 [Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en), PI      
+Masters dissertation: Molecular Symmetry Groups of Non-Rigid Molecules (IIT Madras)    
+PhD dissertation: The DFT+U Method in the Framework of the Parallel Density Functional Code ParaGauss (TU-Muenchen)     
+
 [Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en), Graduate student                  
 Saurabh Chandra Kandpal, Graduate student                 
 Susmita Tripathy, Graduate student             
