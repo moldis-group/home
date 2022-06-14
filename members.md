@@ -15,7 +15,6 @@ Susmita Tripathy, Graduate student
 
 ### Present visiting Students   
 Saminur Rahaman, BS/MS-Physics (IISER-Kolkata) long-term visiting student under the NIUS program   
-Ayran Hingwe, BS/MS-Physics (IISc-Bangalore) long-term visiting student under the NIUS program   
       
 ### Past members
 [Prakriti Kayastha](https://prakayastha.github.io/)      
