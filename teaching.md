@@ -58,10 +58,7 @@ addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin 
 4. Approximation methods: Time-independent perturbation theory; Time-dependent perturbation theory; Application of perturbation theory to higher-order effects in Hydrogen atom Degenerate and nondegenerate versions; Variational method; WKB method   
 
 #### _References:_     
-Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-2, 2011, Indian subcontinent reprint 2014).      
-
-#### _Notes:_    
-1. Detailed solution for the particle-in-a-1D-box using series solution method ([QM2021_Notes01_PIB.pdf](teaching/QM2021_Notes01_PIB.pdf))    
+Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-2, 2011, Indian subcontinent reprint 2014).        
 
 #### _Assignment problems:_     
 [Assignment 01 (PDF)](teaching/QM2021_Assignment_01.pdf)     
@@ -73,8 +70,5 @@ Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-2, 2
 
 #### _Additional reading:_   
 [Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).      
-
-#### _Codes:_
-The codes written for the course will be maintained here: [https://github.com/raghurama123/QuantumMechanics](https://github.com/raghurama123/QuantumMechanics)
 
 * * *
