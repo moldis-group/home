@@ -14,7 +14,7 @@ addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin 
 4. Approximation methods: Time-independent perturbation theory; Time-dependent perturbation theory; Application of perturbation theory to higher-order effects in Hydrogen atom Degenerate and nondegenerate versions; Variational method; WKB method   
 
 #### _References:_     
-Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-2, 2011, Indian subcontinent reprint 2014).    
+Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-3, 2011,Cambridge University Press).    
 
 #### _Additional notes:_   
 
@@ -29,6 +29,25 @@ Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-2, 2
 
 * * *
 
+## Numerical Methods, PHY-102.7/CHM-116.7
+
+Tentative course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
+
+#### _Latest syllabus and Course material:_ 
+
+[https://github.com/raghurama123/NumericalMethods](https://github.com/raghurama123/NumericalMethods)     
+
+* * *
+
+## Data Science, CHM-255.7
+
+Tentative course outline: [2021_DataScience.pdf](teaching/2021_DataScience.pdf)
+
+#### _Latest syllabus and Course material:_ 
+
+[https://github.com/raghurama123/DataScience](https://github.com/raghurama123/DataScience)     
+
+* * *    
 
 ## Numerical Methods for Quantum Mechanics: A mini-course
 
@@ -51,26 +70,6 @@ The presentation and the notebooks are prepared for the lecture Computer-based E
 <a href="https://github.com/raghurama123/Comp_PhysChem_Basic">
 <img src="https://raw.githubusercontent.com/raghurama123/Comp_PhysChem_Basic/main/img/Comp_PhysChem.png"  height="100">
 </a>
-
-* * *
-
-## Numerical Methods, PHY-102.7/CHM-116.7
-
-Tentative course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
-
-#### _Latest syllabus and Course material:_ 
-
-[https://github.com/raghurama123/NumericalMethods](https://github.com/raghurama123/NumericalMethods)     
-
-* * *
-
-## Data Science, CHM-255.7
-
-Tentative course outline: [2021_DataScience.pdf](teaching/2021_DataScience.pdf)
-
-#### _Latest syllabus and Course material:_ 
-
-[https://github.com/raghurama123/DataScience](https://github.com/raghurama123/DataScience)     
 
 * * *
 
