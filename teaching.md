@@ -14,7 +14,7 @@ addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin 
 4. Approximation methods: Time-independent perturbation theory; Time-dependent perturbation theory; Application of perturbation theory to higher-order effects in Hydrogen atom Degenerate and nondegenerate versions; Variational method; WKB method   
 
 #### _References:_     
-Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-3, 2011,Cambridge University Press).    
+_Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge University Press (Edition-3, 2021).    
 
 #### _Notes on selected topics:_   
 
@@ -25,7 +25,8 @@ Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-3, 2
 #### _Exam problems:_        
 
 #### _Optional reading:_   
-[Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).      
+1. [Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).      
+2. _Quantum Physics: A First Encounter INTERFERENCE, ENTANGLEMENT, AND REALITY_, Valerio Scarani, Oxford University Press (Edition-1, 2006).  
 
 * * *
 
