@@ -1,3 +1,35 @@
+## Quantum Mechanics 1 for Physicists, PHY-106.7
+
+Course outline: [2021_QM1.pdf](teaching/2021_QM1.pdf)
+
+#### _Syllabus:_ 
+
+1. Fundamental concepts: Stern-Gerlach experiment; State vectors and operators; Bra-Ket notation: Hilbert space, Inner products; Matrix representation: Eigenkets, Spin-1/2 system, Measurements: Observables, Compatible/Incompatible observables, Uncertainty relations; Change of basis: Transformation, Continuous representation: Position/Momentum representation, Dirac delta function, Gaussian Wavepackets
+
+2. Quantum dynamics: Time evolution and Schroedinger equation: Energy eigenkets, Stationary/nonstattionary states, Spin precession; Schroedinger/Heisenberg picture: Ehrenfest theorem, Transition amplitude; Simple harmonic oscillator: Stationary states, Time-evolution; Wave mechanics: Probability density, Classical limit; Elementary solutions to Schroedinger wave equation: Free particles, Infinitesquare well, Finite-square well, Transmission-Reflection problems Simple harmonic oscillator, Linear potential   
+
+3. Theory of angular momentum: Rotations: Finite/infinite rotations, Commutation; Spin-1/2 system; Pauli 2-component quantum mechanics; Continuous groups: SO(3), SU(3), Euler rotations; Density operators: Pure-vs-mixed ensembles, time-evolution of ensembles, Quantum statistical mechanics; Eigenvalues and eigenstates of angular momentum; Orbital angular momentum: Spherical harmonics; Central potential problems, Hydrogen atom; Angular momentum algebra: Angular momentum
+addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin correlation measurements; Tensor operators: Wigner-Eckart theorem     
+
+4. Approximation methods: Time-independent perturbation theory; Time-dependent perturbation theory; Application of perturbation theory to higher-order effects in Hydrogen atom Degenerate and nondegenerate versions; Variational method; WKB method   
+
+#### _References:_     
+Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-2, 2011, Indian subcontinent reprint 2014).    
+
+#### _Additional notes:_   
+
+1. [Paradoxes of a classical electron](https://github.com/moldis-group/moldis-group.github.io/blob/main/teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_01.pdf)    
+
+#### _Assignment problems:_       
+
+#### _Exam problems:_        
+
+#### _Optional reading:_   
+[Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).      
+
+* * *
+
+
 ## Numerical Methods for Quantum Mechanics: A mini-course
 
 The presentation and the notebooks are prepared for the lecture Numerical Approaches for Quantum Mechanics on 30 December 2021 as a part of the program
@@ -42,33 +74,3 @@ Tentative course outline: [2021_DataScience.pdf](teaching/2021_DataScience.pdf)
 
 * * *
 
-## Quantum Mechanics 1, PHY-106.7/CHM-104.7
-
-Course outline: [2021_QM1.pdf](teaching/2021_QM1.pdf)
-
-#### _Syllabus:_ 
-
-1. Fundamental concepts: Stern-Gerlach experiment; State vectors and operators; Bra-Ket notation: Hilbert space, Inner products; Matrix representation: Eigenkets, Spin-1/2 system, Measurements: Observables, Compatible/Incompatible observables, Uncertainty relations; Change of basis: Transformation, Continuous representation: Position/Momentum representation, Dirac delta function, Gaussian Wavepackets
-
-2. Quantum dynamics: Time evolution and Schroedinger equation: Energy eigenkets, Stationary/nonstattionary states, Spin precession; Schroedinger/Heisenberg picture: Ehrenfest theorem, Transition amplitude; Simple harmonic oscillator: Stationary states, Time-evolution; Wave mechanics: Probability density, Classical limit; Elementary solutions to Schroedinger wave equation: Free particles, Infinitesquare well, Finite-square well, Transmission-Reflection problems Simple harmonic oscillator, Linear potential   
-
-3. Theory of angular momentum: Rotations: Finite/infinite rotations, Commutation; Spin-1/2 system; Pauli 2-component quantum mechanics; Continuous groups: SO(3), SU(3), Euler rotations; Density operators: Pure-vs-mixed ensembles, time-evolution of ensembles, Quantum statistical mechanics; Eigenvalues and eigenstates of angular momentum; Orbital angular momentum: Spherical harmonics; Central potential problems, Hydrogen atom; Angular momentum algebra: Angular momentum
-addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin correlation measurements; Tensor operators: Wigner-Eckart theorem     
-
-4. Approximation methods: Time-independent perturbation theory; Time-dependent perturbation theory; Application of perturbation theory to higher-order effects in Hydrogen atom Degenerate and nondegenerate versions; Variational method; WKB method   
-
-#### _References:_     
-Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-2, 2011, Indian subcontinent reprint 2014).        
-
-#### _Assignment problems:_     
-[Assignment 01 (PDF)](teaching/QM2021_Assignment_01.pdf)     
-[Assignment 02 (PDF)](teaching/QM2021_Assignment_02.pdf)     
-[Assignment 03 (PDF)](teaching/QM2021_Assignment_03.pdf)    
-
-#### _Exam problems:_    
-[Mid-term (PDF)](teaching/QM2021_MidTerm.pdf)      
-
-#### _Additional reading:_   
-[Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).      
-
-* * *
