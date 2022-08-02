@@ -16,7 +16,7 @@ addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin 
 #### _References:_     
 Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-3, 2011,Cambridge University Press).    
 
-#### _Additional notes:_   
+#### _Notes on selected topics:_   
 
 1. [Paradoxes of a classical electron](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_01.pdf)    
 
