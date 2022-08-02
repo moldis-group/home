@@ -1,6 +1,6 @@
 ## Quantum Mechanics 1 for Physicists, PHY-106.7
 
-Course outline: [2021_QM1.pdf](teaching/2021_QM1.pdf)
+Course outline: [2022_QM1.pdf](teaching/2022_QM1.pdf)
 
 #### _Syllabus:_ 
 
@@ -18,7 +18,7 @@ Modern Quantum Mechanics, J. J. Sakurai, J. J. Napolitano, Pearson (Edition-3, 2
 
 #### _Additional notes:_   
 
-1. [Paradoxes of a classical electron](https://github.com/moldis-group/moldis-group.github.io/raw/main/teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_01.pdf)    
+1. [Paradoxes of a classical electron](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_01.pdf)    
 
 #### _Assignment problems:_       
 
