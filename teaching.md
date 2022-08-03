@@ -28,7 +28,7 @@ This section will be updated as the course progresses. You can read these notes 
 
 #### _What are some good text books to consult for QM-1?:_ 
 
-For the 2022 course, please follow Sakurai's book along with the additional notes provided above. In the next years, we may offer the QM-1 course based on combination of these texts. Feel free to check them out. 
+For the 2022 course, please follow Sakurai's book along with the additional notes provided above. In the next years, we may offer the QM-1 course based on combination of the following texts. Feel free to check them out. 
 
 1. _Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge University Press (Edition-3, 2021).   
 2. _Principle of Quantum Mechanics_, R. Shankar, Springer (Edition-2, Sixth Indian Reprint 2015).  
