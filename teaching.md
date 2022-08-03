@@ -17,6 +17,14 @@ addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin 
 
 _Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge University Press (Edition-3, 2021).    
 
+#### _What are some good text books to consult for QM-1?:__   
+
+1. _Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge University Press (Edition-3, 2021).   
+2. _Principle of Quantum Mechanics_, R. Shankar, Springer (Edition-2, Sixth Indian Reprint 2015).  
+3. _Introduction to Quantum Mechanics_ D. J. Griffiths, D. F. Schroeter, Cambridge University Press (Edition-3, 2018).    
+4. _Quantum Physics_ Michel Le Bellac, Cambridge University Press (Edition-1, 2006).   
+5. _Quantum Mechanics: Fundamentals_, Kurt Gottfried Tung-Mow Yan, Springer (EDition-2, 2003).  
+
 #### _Notes on selected topics:_   
 
 1. [Paradoxes of a classical electron](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_01.pdf)    
