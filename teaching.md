@@ -17,7 +17,7 @@ addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin 
 
 _Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge University Press (Edition-3, 2021).    
 
-#### _What are some good text books to consult for QM-1?:__   
+#### _What are some good text books to consult for QM-1?:_ 
 
 1. _Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge University Press (Edition-3, 2021).   
 2. _Principle of Quantum Mechanics_, R. Shankar, Springer (Edition-2, Sixth Indian Reprint 2015).  
