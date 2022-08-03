@@ -53,7 +53,7 @@ We will not discuss these topics in this course but for those interested in gett
 
 #### _Optional reading of interesting articles and reviews:_    
 
-This list is maintained just for the sake of collecting interesting articles that can be read during the QM-1 course. Feel free to go through them.
+This list is maintained (and will be regularly updated) just for the sake of collecting interesting articles that can be read during the QM-1 course. Feel free to go through them.
 
 1. [Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).   
 
