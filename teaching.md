@@ -32,8 +32,8 @@ For the 2022 course, please follow Sakurai's book along with the additional note
 
 1. _Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge University Press (Edition-3, 2021).   
 2. _Principle of Quantum Mechanics_, R. Shankar, Springer (Edition-2, Sixth Indian Reprint 2015).  
-3. _Introduction to Quantum Mechanics_ D. J. Griffiths, D. F. Schroeter, Cambridge University Press (Edition-3, 2018).    
-4. _Quantum Physics_ Michel Le Bellac, Cambridge University Press (Edition-1, 2006).   
+3. _Introduction to Quantum Mechanics_, D. J. Griffiths, D. F. Schroeter, Cambridge University Press (Edition-3, 2018).    
+4. _Quantum Physics_, Michel Le Bellac, Cambridge University Press (Edition-1, 2006).   
 5. _Quantum Mechanics: Fundamentals_, Kurt Gottfried Tung-Mow Yan, Springer (Edition-2, 2003).  
 6. _Lectures on Quantum Mechanics_, Steven Weinberg, Cambridge University Press (Edition-2, 2015).   
  
