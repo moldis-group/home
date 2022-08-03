@@ -35,7 +35,8 @@ In the next years, we may offer the QM-1 course based on combination of these te
 3. _Introduction to Quantum Mechanics_ D. J. Griffiths, D. F. Schroeter, Cambridge University Press (Edition-3, 2018).    
 4. _Quantum Physics_ Michel Le Bellac, Cambridge University Press (Edition-1, 2006).   
 5. _Quantum Mechanics: Fundamentals_, Kurt Gottfried Tung-Mow Yan, Springer (Edition-2, 2003).  
-
+6. _Lectures on Quantum Mechanics_, Steven Weinberg, Cambridge University Press (Edition-2, 2015).   
+ 
 There are several books that discuss certain topics remarkably well. Here are some.
 
 1. _Introductory Quantum Mechanics_, Richard L. Liboff, Pearson (Edition-4, 2002).   
