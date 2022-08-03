@@ -19,11 +19,20 @@ _Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge Universit
 
 #### _What are some good text books to consult for QM-1?:_ 
 
+In the next years, we may offer the QM-1 course based on combination of these texts.
+
 1. _Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge University Press (Edition-3, 2021).   
 2. _Principle of Quantum Mechanics_, R. Shankar, Springer (Edition-2, Sixth Indian Reprint 2015).  
 3. _Introduction to Quantum Mechanics_ D. J. Griffiths, D. F. Schroeter, Cambridge University Press (Edition-3, 2018).    
 4. _Quantum Physics_ Michel Le Bellac, Cambridge University Press (Edition-1, 2006).   
 5. _Quantum Mechanics: Fundamentals_, Kurt Gottfried Tung-Mow Yan, Springer (EDition-2, 2003).  
+
+There are several books that discuss certain topics remarkably well. Here are some.
+
+1. _Introductory Quantum Mechanics_, Richard L. Liboff, Pearson (Edition-4, 2002).   
+2. _A Modern Approach to Quantum Mechanics_, John S. Townsend, Viva (First Indian Edition, 2010, Reprinted 2017). 
+
+Further, there is a long list of classic texts that I will list some other time.
 
 #### _Notes on selected topics:_   
 
