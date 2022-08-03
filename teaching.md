@@ -34,7 +34,7 @@ In the next years, we may offer the QM-1 course based on combination of these te
 2. _Principle of Quantum Mechanics_, R. Shankar, Springer (Edition-2, Sixth Indian Reprint 2015).  
 3. _Introduction to Quantum Mechanics_ D. J. Griffiths, D. F. Schroeter, Cambridge University Press (Edition-3, 2018).    
 4. _Quantum Physics_ Michel Le Bellac, Cambridge University Press (Edition-1, 2006).   
-5. _Quantum Mechanics: Fundamentals_, Kurt Gottfried Tung-Mow Yan, Springer (EDition-2, 2003).  
+5. _Quantum Mechanics: Fundamentals_, Kurt Gottfried Tung-Mow Yan, Springer (Edition-2, 2003).  
 
 There are several books that discuss certain topics remarkably well. Here are some.
 
