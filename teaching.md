@@ -45,8 +45,16 @@ Further, there is a long list of classic texts that I will list some other time.
 
 #### _Optional reading on measurement, entanglement and related topics:_    
 
-1. [Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).      
-2. _Quantum Physics: A First Encounter_, Valerio Scarani, Oxford University Press (Edition-1, 2006).  
+We will not discuss these topics in this course but for those interested in getting some idea of these topics, here is a list of references.
+
+1. _Quantum Physics: A First Encounter_, Valerio Scarani, Oxford University Press (Edition-1, 2006).    
+2. _A Short Introduction to Quantum Information and Quantum Computation_, Michel Le Bellac, Cambridge University Press (Edition-1, 2006).  
+
+#### _Optional reading of interesting articles and reviews:_    
+
+This list is maintained just for the sake of collecting interesting articles that can be read during the QM-1 course. Feel free to go through them.
+
+1. [Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7) by N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Elsevier (1988).   
 
 * * *
 
