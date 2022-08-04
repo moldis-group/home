@@ -41,7 +41,8 @@ There are several books that discuss certain topics remarkably well. Here are so
 
 1. _Introductory Quantum Mechanics_, Richard L. Liboff, Pearson (Edition-4, 2002).   
 2. _A Modern Approach to Quantum Mechanics_, John S. Townsend, Viva (First Indian Edition, 2010, Reprinted 2017).   
-3. _Quantum Mechanics_, David McIntyre, Corine A. Manogue, Janet Tate, Pearson (First Indian Edition, 2016).    
+3. _Quantum Mechanics_, David McIntyre, Corine A. Manogue, Janet Tate, Pearson (First Indian Edition, 2016).      
+4. _Quantum Mechanics: Theory and Experiment_, Mark Beck, Oxford University Press (Edition-1, 2012).   
 
 Further, there is a long list of classic texts that I will list some other time.
 
