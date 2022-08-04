@@ -37,7 +37,7 @@ For the 2022 course, please follow Sakurai's book along with the additional note
 5. _Quantum Mechanics: Fundamentals_, Kurt Gottfried Tung-Mow Yan, Springer (Edition-2, 2003).  
 6. _Lectures on Quantum Mechanics_, Steven Weinberg, Cambridge University Press (Edition-2, 2015).   
  
-There are several books that discuss certain topics remarkably well. Here are some.
+There are several books that discuss certain topics remarkably well. Here is a short list.
 
 1. _Introductory Quantum Mechanics_, Richard L. Liboff, Pearson (Edition-4, 2002).   
 2. _A Modern Approach to Quantum Mechanics_, John S. Townsend, Viva (First Indian Edition, 2010, Reprinted 2017).   
