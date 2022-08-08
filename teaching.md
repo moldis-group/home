@@ -59,6 +59,7 @@ This list is maintained (and will be regularly updated) just for the sake of col
 
 1. [Against Measurement](https://doi.org/10.1088/2058-7058/3/8/26), John Bell, Physics World, Volume 3, Number 8 (1990) Pages 33-40.    
 2. [Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7), N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Volume 153, Issue 1 (1988) Pages 97-113.    
+3. [The Stern-Gerlach experiment revisited](https://link.springer.com/article/10.1140/epjh/e2016-70053-2), Horst Schmidt-Böcking, Lothar Schmidt, Hans Jürgen Lüdde, Wolfgang Trageser, Alan Templeton & Tilman Sauer, The European Physical Journal H volume 41 (2016)  pages 327–364. [arxiv link] (https://arxiv.org/abs/1609.09311)    
 
 * * *
 
