@@ -55,7 +55,7 @@ We will not discuss these topics in this course but for those interested in gett
 
 #### _Optional reading of interesting articles and reviews:_    
 
-This list is maintained (and will be regularly updated) just for the sake of collecting interesting articles that can be read during the QM-1 course. Feel free to go through them.
+This list is maintained (and will be regularly updated) for the sake of collecting interesting articles that can be studied/discussed during the QM-1 course. Feel free to go through them. If you have any recommendations to this section, please send them to ramakrishnan@tifrh.res.in 
 
 1. [Against Measurement](https://doi.org/10.1088/2058-7058/3/8/26), John Bell, Physics World, Volume 3, Number 8 (1990) pages 33-40.    
 2. [Ten theorems about quantum mechanical measurements](https://doi.org/10.1016/0378-4371(88)90105-7), N.G. Van Kampen, Physica A: Statistical Mechanics and its Applications, Volume 153, Issue 1 (1988) pages 97-113.    
