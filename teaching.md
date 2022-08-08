@@ -11,7 +11,7 @@ Course outline: [2022_QM1.pdf](teaching/2022_QM1.pdf)
 3. Theory of angular momentum: Rotations: Finite/infinite rotations, Commutation; Spin-1/2 system; Pauli 2-component quantum mechanics; Continuous groups: SO(3), SU(3), Euler rotations; Density operators: Pure-vs-mixed ensembles, time-evolution of ensembles, Quantum statistical mechanics; Eigenvalues and eigenstates of angular momentum; Orbital angular momentum: Spherical harmonics; Central potential problems, Hydrogen atom; Angular momentum algebra: Angular momentum
 addition,Clebsh-Gordon coefficients; Oscillator model of angular momentum; Spin correlation measurements; Tensor operators: Wigner-Eckart theorem     
 
-4. Approximation methods: Time-independent perturbation theory; Time-dependent perturbation theory; Application of perturbation theory to higher-order effects in Hydrogen atom Degenerate and nondegenerate versions; Variational method; WKB method   
+4. Approximation methods: Time-independent perturbation theory; Time-dependent perturbation theory; Application of perturbation theory to higher-order effects in Hydrogen atom; Degenerate and nondegenerate versions; Variational method; WKB method   
 
 #### _References:_     
 
