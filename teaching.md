@@ -62,6 +62,7 @@ This list is maintained (and will be regularly updated) for the sake of collecti
 3. [The Stern-Gerlach experiment revisited](https://link.springer.com/article/10.1140/epjh/e2016-70053-2), Horst Schmidt-Böcking, Lothar Schmidt, Hans Jürgen Lüdde, Wolfgang Trageser, Alan Templeton & Tilman Sauer, The European Physical Journal H volume 41 (2016)  pages 327–364. [arxiv link](https://arxiv.org/abs/1609.09311)    
 4. [Albert Einstein's explanation of how science works](/teaching/QM2022_Sakurai_Notes/process_of_science_Einstein.png) from _Physics: A Conceptual World View_ Larry Kirkpatrick, Gregory E. Francis, Cengage Learning (2009).   
 5. [Stern and Gerlach: How a Bad Cigar Helped Reorient Atomic Physics](https://physicstoday.scitation.org/doi/10.1063/1.1650229), Bretislav Friedrich and Dudley Herschbach, Physics Today Volume 56, Number 12 (2003) pages 53--59.    
+6. [One hundred years of Alfred Landé's g-factor](https://onlinelibrary.wiley.com/doi/full/10.1002/ntls.20210068), Bretislav Friedrich, Gerard Meijer, Horst Schmidt-Böcking, Gernot Gruber, Natural Sciences, Volume 1, Issue 2 (2021) pages 1--7.
 
 * * *
 
