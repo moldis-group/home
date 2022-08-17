@@ -64,6 +64,9 @@ This list is maintained (and will be regularly updated) for the sake of collecti
 5. [Stern and Gerlach: How a Bad Cigar Helped Reorient Atomic Physics](https://physicstoday.scitation.org/doi/10.1063/1.1650229), Bretislav Friedrich and Dudley Herschbach, Physics Today Volume 56, Number 12 (2003) pages 53--59.    
 6. [One hundred years of Alfred Landé's g-factor](https://onlinelibrary.wiley.com/doi/full/10.1002/ntls.20210068), Bretislav Friedrich, Gerard Meijer, Horst Schmidt-Böcking, Gernot Gruber, Natural Sciences, Volume 1, Issue 2 (2021) pages 1--7.
 
+#### _Internet sources for images, videos, blogs, etc.:_  
+1. [https://toutestquantique.fr/en/](https://toutestquantique.fr/en/), contains animations of experiments (such as Stern-Gerlach experiment) that we will discuss in the course.    
+
 * * *
 
 ## Numerical Methods, PHY-102.7/CHM-116.7
