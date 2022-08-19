@@ -14,7 +14,7 @@ Prakriti Kayastha, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
 Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan          
 The Journal of Chemical Physics, 155 (2021) 244102.    
 [BODIPYs dataset](https://moldis-group.github.io/BODIPYs/)            
-[Web-based QML model for querying on 253 Billion BODIPY moleucules](https://moldis.tifrh.res.in/db/bodipy)     
+[Web-based QML model for querying on 253 Billion BODIPY molecules](https://moldis.tifrh.res.in/db/bodipy)     
 JCP Special Topic: [Chemical Design by Artificial Intelligence](https://aip.scitation.org/toc/jcp/collection/10.1063/jcp.2022.CHAI2021.issue-1)  
     
 1. [_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9)       
