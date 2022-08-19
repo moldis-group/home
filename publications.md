@@ -3,6 +3,12 @@ layout: default
 ---
 
 ## Publications      
+1. [_The Resolution-vs.-Accuracy Dilemma in Machine Learning Modeling of Electronic Excitation Spectra_](https://doi.org/10.1039/D1DD00031D)    
+Prakriti Kayastha, Sabyasachi Chakraborty, Raghunathan Ramakrishnan           
+[bigQM7w dataset](https://moldis-group.github.io/bigQM7w)           
+[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)   
+[Data-mining platform on Moldis](http://moldis.tifrh.res.in/datasets.html)   
+[Machine learning model](https://github.com/moldis-group/bigQM7w/tree/main/ML_spectrum)   
  
 1. [_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://doi.org/10.1063/5.0076787)    
 Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan          
@@ -164,13 +170,6 @@ Physics Review A, 85 (2012) 054501.
 1. [ _Understanding the role of intramolecular ion-pair interactions in conformational stability using an ab initio thermodynamic cycle_](http://arxiv.org/abs/2203.03478)       
 Sabyasachi Chakraborty, Kalyaneswar Mandal, Raghunathan Ramakrishnan             
 
-1. [_The Resolution-vs.-Accuracy Dilemma in Machine Learning Modeling of Electronic Excitation Spectra_](https://arxiv.org/abs/2110.11798)    
-Prakriti Kayastha, Sabyasachi Chakraborty, Raghunathan Ramakrishnan           
-[bigQM7w dataset](https://moldis-group.github.io/bigQM7w)           
-[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)   
-[Data-mining platform on Moldis](http://moldis.tifrh.res.in/datasets.html)   
-[Machine learning model](https://github.com/moldis-group/bigQM7w/tree/main/ML_spectrum)   
-             
 1. [ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)       
 Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan             
 [Pople code](https://moldis-group.github.io/pople/)    
