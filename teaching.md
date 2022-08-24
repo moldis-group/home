@@ -23,6 +23,7 @@ This section will be updated as the course progresses. You can read these notes 
 1. [Paradoxes of a classical electron](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_01.pdf), 1.1: _The Stern-Gerlach experiment_    
 
 #### _Assignment problems:_       
+1. [QM2022_Assignment_01.pdf](teaching/QM2022_Assignment_01.pdf) [due 13 September 2022 (Tuesday), 08:30 AM]    
 
 #### _Exam problems:_        
 
