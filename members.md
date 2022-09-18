@@ -14,7 +14,7 @@ Susmita Tripathy, Graduate student
 [Sai Vijay Mocherla](https://vijaymocherla.github.io/), Junior research fellow       
 
 ### Present visiting Students   
-Saminur Rahaman, BS/MS-Physics (IISER-Kolkata) long-term visiting student under the NIUS program   
+Saminur Rahaman, BS/MS-Physics (IISER-Kolkata), long-term visiting student under the NIUS program   
 Satyam Panchal, BSc Physics, Ramjas College, Delhi, long-term visiting student under the NIUS program    
       
 ### Past members
