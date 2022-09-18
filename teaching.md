@@ -22,6 +22,7 @@ This section will be updated as the course progresses. You can read these notes 
 
 1. [Paradoxes of a classical electron](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_01.pdf), 1.1: _The Stern-Gerlach experiment_    
 2. [Linear vector space and Hilbert space](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_02_LVS.pdf), 1.2: _Kets, bras and operators_    
+3. [Canonical transformation in classical mechanics and its connection to the fact that quantum mechanical momentum operator is the generator of infinitesimal translation](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_03_canonical_transformation.pdf), 1.6: _Position, momentum, and translation_     
 
 #### _Assignment problems:_       
 1. [QM2022_Assignment_01.pdf](teaching/QM2022_Assignment_01.pdf) [due 13 September 2022 (Tuesday), 08:30 AM]    
