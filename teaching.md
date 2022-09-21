@@ -26,7 +26,8 @@ This section will be updated as the course progresses. You can read these notes 
 
 #### _Assignment problems:_       
 1. [QM2022_Assignment_01.pdf](teaching/QM2022_Assignment_01.pdf) [due 13 September 2022 (Tuesday), 08:30 AM]    
-2. [QM2022_Assignment_02.pdf](teaching/QM2022_Assignment_02.pdf) [due 29 September 2022 (Thursday), 08:30 AM]    
+2. [QM2022_Assignment_02.pdf](teaching/QM2022_Assignment_02.pdf) [due 29 September 2022 (Thursday), 08:30 AM]  
+3. [QM2022_Assignment_03.pdf](teaching/QM2022_Assignment_03.pdf) [due 11 October 2022 (Tuesday), 08:30 AM]     
 
 #### _Exam problems:_        
 
