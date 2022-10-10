@@ -30,6 +30,7 @@ This section will be updated as the course progresses. You can read these notes 
 3. [QM2022_Assignment_03.pdf](teaching/QM2022_Assignment_03.pdf) [due 11 October 2022 (Tuesday), 08:30 AM]     
 
 #### _Exam problems:_        
+[Mid-term exam, QM2022_Mid.pdf](teaching/QM2022_Mid.pdf) 
 
 #### _What are some good text books to consult for QM-1?:_ 
 
