@@ -5,7 +5,7 @@ layout: default
 ## Publications      
 1. [_The Resolution-vs.-Accuracy Dilemma in Machine Learning Modeling of Electronic Excitation Spectra_](https://doi.org/10.1039/D1DD00031D)    
 Prakriti Kayastha, Sabyasachi Chakraborty, Raghunathan Ramakrishnan   
-Digital Discovery (2022) Accepted.    
+Digital Discovery, 1 (2022) 689-702.    
 [bigQM7w dataset](https://moldis-group.github.io/bigQM7w)           
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)   
 [Data-mining platform on Moldis](http://moldis.tifrh.res.in/datasets.html)   
