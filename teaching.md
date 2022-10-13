@@ -24,6 +24,7 @@ You can read these notes alongside the section in the reference text book given 
 2. [Linear vector space and Hilbert space](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_02_LVS.pdf), 1.2: _Kets, Bras and Operators_    
 3. [Canonical transformation](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_03_canonical_transformation.pdf), 1.6: _Position, Momentum, and Translation_     
 4. [Degeneracy theorem and Wronskian](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_04_degeneracy_theorem.pdf), 2.4: _Schroedinger’s Wave Equation_    
+5. [Series solution for particle-in-a-box](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_05_PIB_series_solution.pdf), 2.5: _Elementary Solutions to Schro ̈dinger’s Wave Equation, AppendixB: ElementarySolutionstoSchrödinger’sWaveEquation_        
 
 #### _Assignment problems:_       
 1. [QM2022_Assignment_01.pdf](teaching/QM2022_Assignment_01.pdf) [due 13 September 2022 (Tuesday), 08:30 AM]    
