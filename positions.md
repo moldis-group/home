@@ -19,7 +19,7 @@ Here are the pre-requisites to apply for these positions.
 - Junior research fellow (JRF): M.Sc. in Chemistry/Physics or B.Tech in a suitable discipline. A valid CSIR/GATE score.      
 - Postdoctoral research associates (PDRA): Ph.D. in Chemistry/Physics or a suitable discipline.         
 
-Please send your application email with resume to [ramakrishnan@tifrh.res.in](ramakrishnan@tifrh.res.in).     
+Please send your application email with resume to [ramakrishnan@tifrh.res.in](ramakrishnan@tifrh.res.in)     
 
 
 
