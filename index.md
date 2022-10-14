@@ -7,12 +7,14 @@ We are a small interdisciplinary team at the [Tata Institute of Fundamental Rese
 
 ### Positions Open
 
-We have positions open for Junior research fellows, I-Ph.D. / Ph.D. students and Postdoc fellows to work on our projects on
+We have positions open for Junior research fellows, I-Ph.D. / Ph.D. students and Postdoc fellows to work on our projects on the following topics
 - computational chemistry 
+- computational organic chemistry including topics like retrosynthesis, and reaction mechanism elucidation 
 - computational materials science
 - cheminformatics
 - machine learning model development
 - phenomenological models of condensed matter 
+We are interested in several other topics. 
  
 Here are the pre-requisites to apply for these positions. If you need further information, please contact [ramakrishnan@tifrh.res.in](ramakrishnan@tifrh.res.in).    
 
