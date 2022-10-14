@@ -8,12 +8,12 @@ We are a small interdisciplinary team at the [Tata Institute of Fundamental Rese
 ### Positions open
 
 We have positions open for junior research fellows, I-Ph.D. / Ph.D. students and Postdoctoral research associates to work on the following topics.
-- computational chemistry 
-- computational organic chemistry including topics like retrosynthesis, and reaction mechanism elucidation 
-- computational materials science
-- cheminformatics
-- machine learning model development
-- phenomenological models of condensed matter 
+- computational organic chemistry including topics like retrosynthesis, and reaction mechanism elucidation    
+- computational chemistry    
+- computational materials science    
+- cheminformatics    
+- machine learning model development    
+- phenomenological models of condensed matter    
 
 We are also interested in several other topics. Here are the pre-requisites to apply for these positions. 
 
