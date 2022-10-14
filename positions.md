@@ -5,11 +5,11 @@ layout: default
 ## Positions open
 
 We have positions open for junior research fellows, I-Ph.D. / Ph.D. students and Postdoctoral research associates to work on the following topics.
-- computational organic chemistry including topics like retrosynthesis, and reaction mechanism elucidation    
-- computational chemistry    
-- computational materials science    
-- cheminformatics    
-- machine learning model development    
+- computational organic chemistry (retrosynthesis, and reaction mechanism elucidation)     
+- computational chemistry (bechmarking and calibration of electronic structure methods)      
+- computational materials science (crystal structure prediction, electronic and mechanical properties of solids) 
+- cheminformatics (development of models for molecular structure-property correlation)     
+- machine learning model development (for molecular and materials datasets)    
 - phenomenological models of condensed matter    
 
 We are also interested in several other topics. Here are the pre-requisites to apply for these positions. 
