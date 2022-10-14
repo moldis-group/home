@@ -5,6 +5,21 @@ layout: default
 ## Laboratory for Chemical Space Design and Data Science    
 We are a small interdisciplinary team at the [Tata Institute of Fundamental Research Hyderabad, India](https://www.tifrh.res.in/). Topics of interest to us, in no particular order of preference, are Chemical compound space design, Quantum mechanics, Machine learning and Big Data analytics, Computational materials science, High-performance computing, Density functional theory, Femtosecond electron dynamics, Anharmonic vibrational spectra, Potential energy surfaces, and Computer-based science education. Our present research activities are largely driven by the requirements of our MolDis initiative.
 
+### Positions Open
+
+We have positions open for Junior research fellows, Ph.D. students and Postdoc fellows to work on our projects on
+- computational chemistry 
+- computational materials science
+- cheminformatics
+- machine learning model development
+- phenomenological models of condensed matter 
+ 
+Here are the pre-requisites to apply for these positions. If you need further information, please contact [ramakrishnan@tifrh.res.in](ramakrishnan@tifrh.res.in).    
+
+1. Junior research fellows (JRFs): M.Sc. in Chemistry/Physics or B.Tech in a suitable discipline. A valid CSIR/GATE score.  
+2. I-Ph.D / Ph.D. students: Chemistry/Physics students enrolled in TIFRH graduate school.   
+3. Postdoctoral fellows: Ph.D. in Chemistry/Physics or a suitable discipline.       
+
 ### Project MolDis
 MolDis, our big data analytics platform for MOLecular DIScovery is now open for public access. Please click the logo below for more details.
 
@@ -20,8 +35,7 @@ Our work depends on high-performance computation.
 <img src="assets/img/helios.jpeg"  height="150">
 <img src="assets/img/helios_2.jpg"  height="150">
 <img src="assets/img/nodes.jpeg"  height="150">
-       
-        
+               
 We use several quantum chemistry and materials modeling software developed by research groups across the world.    
 
 <!--
