@@ -14,13 +14,14 @@ We have positions open for Junior research fellows, I-Ph.D. / Ph.D. students and
 - cheminformatics
 - machine learning model development
 - phenomenological models of condensed matter 
-We are interested in several other topics. 
- 
-Here are the pre-requisites to apply for these positions. If you need further information, please contact [ramakrishnan@tifrh.res.in](ramakrishnan@tifrh.res.in).    
+
+We are also interested in several other topics. Here are the pre-requisites to apply for these positions. 
 
 1. Junior research fellows (JRFs): M.Sc. in Chemistry/Physics or B.Tech in a suitable discipline. A valid CSIR/GATE score.  
 2. Integrated-Ph.D. / Ph.D. students: Chemistry/Physics students enrolled in TIFRH graduate school.   
 3. Postdoctoral fellows: Ph.D. in Chemistry/Physics or a suitable discipline.       
+
+If you need further information, please contact [ramakrishnan@tifrh.res.in](ramakrishnan@tifrh.res.in).    
 
 ### Project MolDis
 MolDis, our big data analytics platform for MOLecular DIScovery is now open for public access. Please click the logo below for more details.
