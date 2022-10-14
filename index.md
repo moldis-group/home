@@ -5,9 +5,9 @@ layout: default
 ## Laboratory for Chemical Space Design and Data Science    
 We are a small interdisciplinary team at the [Tata Institute of Fundamental Research Hyderabad, India](https://www.tifrh.res.in/). Topics of interest to us, in no particular order of preference, are Chemical compound space design, Quantum mechanics, Machine learning and Big Data analytics, Computational materials science, High-performance computing, Density functional theory, Femtosecond electron dynamics, Anharmonic vibrational spectra, Potential energy surfaces, and Computer-based science education. Our present research activities are largely driven by the requirements of our MolDis initiative.
 
-### Positions Open
+### Positions open
 
-We have positions open for Junior research fellows, I-Ph.D. / Ph.D. students and Postdoc fellows to work on our projects on the following topics
+We have positions open for junior research fellows, I-Ph.D. / Ph.D. students and Postdoctoral research associates to work on the following topics.
 - computational chemistry 
 - computational organic chemistry including topics like retrosynthesis, and reaction mechanism elucidation 
 - computational materials science
@@ -17,9 +17,9 @@ We have positions open for Junior research fellows, I-Ph.D. / Ph.D. students and
 
 We are also interested in several other topics. Here are the pre-requisites to apply for these positions. 
 
-1. Junior research fellows (JRFs): M.Sc. in Chemistry/Physics or B.Tech in a suitable discipline. A valid CSIR/GATE score.  
+1. Junior research fellow (JRF): M.Sc. in Chemistry/Physics or B.Tech in a suitable discipline. A valid CSIR/GATE score.  
 2. Integrated-Ph.D. / Ph.D. students: Chemistry/Physics students enrolled in TIFRH graduate school.   
-3. Postdoctoral fellows: Ph.D. in Chemistry/Physics or a suitable discipline.       
+3. Postdoctoral research associates (PDRA): Ph.D. in Chemistry/Physics or a suitable discipline.       
 
 If you need further information, please contact [ramakrishnan@tifrh.res.in](ramakrishnan@tifrh.res.in).    
 
