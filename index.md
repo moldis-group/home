@@ -7,7 +7,7 @@ We are a small interdisciplinary team at the [Tata Institute of Fundamental Rese
 
 ### Positions Open
 
-We have positions open for Junior research fellows, Ph.D. students and Postdoc fellows to work on our projects on
+We have positions open for Junior research fellows, I-Ph.D. / Ph.D. students and Postdoc fellows to work on our projects on
 - computational chemistry 
 - computational materials science
 - cheminformatics
@@ -17,7 +17,7 @@ We have positions open for Junior research fellows, Ph.D. students and Postdoc f
 Here are the pre-requisites to apply for these positions. If you need further information, please contact [ramakrishnan@tifrh.res.in](ramakrishnan@tifrh.res.in).    
 
 1. Junior research fellows (JRFs): M.Sc. in Chemistry/Physics or B.Tech in a suitable discipline. A valid CSIR/GATE score.  
-2. I-Ph.D / Ph.D. students: Chemistry/Physics students enrolled in TIFRH graduate school.   
+2. Integrated-Ph.D. / Ph.D. students: Chemistry/Physics students enrolled in TIFRH graduate school.   
 3. Postdoctoral fellows: Ph.D. in Chemistry/Physics or a suitable discipline.       
 
 ### Project MolDis
