@@ -8,7 +8,8 @@ We have positions open for junior research fellows, I-Ph.D. / Ph.D. students and
 
 - computational organic chemistry (retrosynthesis, and reaction mechanism elucidation)     
 - computational chemistry (bechmarking and calibration of electronic structure methods)      
-- computational materials science (crystal structure prediction, electronic and mechanical properties of solids) 
+- computational materials science (crystal structure prediction, electronic and mechanical properties of solids)   
+- ordered to disordered transitions   
 - cheminformatics (development of models for molecular structure-property correlation)     
 - machine learning model development (for molecular and materials datasets)    
 - phenomenological models of condensed matter    
