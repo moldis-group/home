@@ -10,6 +10,7 @@ We have positions open for junior research fellows, I-Ph.D. / Ph.D. students and
 - computational materials science, ordered to disordered transitions, phenomenological models of condensed matter    
 - cheminformatics, machine learning modeling
 - attosecond electron dynamics  
+- potential energy surfaces   
 
 Here are the pre-requisites to apply for these positions.     
 
@@ -18,6 +19,8 @@ Here are the pre-requisites to apply for these positions.
 - Postdoctoral research associates (PDRA): Ph.D. in Chemistry/Physics or a suitable discipline.         
 
 Please send your application email with resume to [ramakrishnan@tifrh.res.in](ramakrishnan@tifrh.res.in)     
+
+
 
 
 
