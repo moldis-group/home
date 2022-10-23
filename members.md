@@ -23,9 +23,9 @@ Satyam Panchal, BSc Physics, Ramjas College, Delhi, long-term visiting student u
       
 ### Past members   
 [Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)      
-– B.Sc. in Chemistry, Ramakrishna Mission Vidyalaya, Narendrapur      
-– M.Sc. in Chemistry, Presidency College      
-– (July 2017 - October 2022) Ph.D. student, Thesis: Quantum chemical investigations across diverse chemical spaces         
+– B.Sc. in Chemistry, Ramakrishna Mission Vidyalaya, Narendrapur, India      
+– M.Sc. in Chemistry, Presidency College, Kolkata, India      
+– (July 2017 - October 2022) Ph.D. student with us, Thesis: Quantum chemical investigations across diverse chemical spaces         
 – Since November 2022, Postdoctoral research associate at Schulich Faculty of Chemistry, Technion, Israel 
 
 [Prakriti Kayastha](https://prakayastha.github.io/)      
