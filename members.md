@@ -17,11 +17,11 @@ Susmita Tripathy, Graduate student
 [Sai Vijay Mocherla](https://vijaymocherla.github.io/), Junior research fellow       
 - Topic: Attosecond electron dynamics
 
-### Visiting Students   
+## Visiting Students   
 Saminur Rahaman, BS/MS-Physics (IISER-Kolkata), long-term visiting student under the NIUS program   
 Satyam Panchal, BSc Physics, Ramjas College, Delhi, long-term visiting student under the NIUS program    
       
-### Past members
+## Past members
 
 [Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)
 - B.Sc. in Chemistry, Ramakrishna Mission Vidyalaya, Narendrapur
@@ -60,7 +60,7 @@ Sambit Kumar Das
 – (October 2018 – September 2019, Junior Research Fellow with us)      
 – Since October 2019, Doctoral student at the Department of Mathematics, University of York, UK      
 
-### Former visiting Students      
+## Former visiting Students      
 2016, [Ahana Ghosh](https://scholar.google.com/citations?user=82ubzWoAAAAJ&hl=en&oi=ao), presently doctoral student at the Max Planck Institute For Software Systems, Saarbrucken, Germany     
 2017, Manvi Gupta, presently masters student at the School of Computer Science, Carnegie Mellon  University, USA       
 2017, [Anjana R Kammath](https://scholar.google.com/citations?hl=en&user=OcH1KewAAAAJ), presently doctoral student at Yale University, USA     
