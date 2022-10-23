@@ -10,8 +10,10 @@ PhD dissertation: The DFT+U Method in the Framework of the Parallel Density Func
                
 Saurabh Chandra Kandpal, Ph.D. student             
 – Topic: Computational thermochemistry     
+
 Susmita Tripathy, Ph.D. student                  
 – Topic: Modeling of core-level excitations     
+
 [Sai Vijay Mocherla](https://vijaymocherla.github.io/), Junior research fellow            
 – Topic: Attosecond electron dynamics    
 
