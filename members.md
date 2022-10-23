@@ -7,17 +7,28 @@ layout: default
 [Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en), PI      
 Masters dissertation: Molecular Symmetry Groups of Non-Rigid Molecules (IIT Madras)    
 PhD dissertation: The DFT+U Method in the Framework of the Parallel Density Functional Code ParaGauss (TU-Muenchen)     
+               
+Saurabh Chandra Kandpal, Graduate student        
+- Topic: Computational thermochemistry
 
-[Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en), Graduate student                  
-Saurabh Chandra Kandpal, Graduate student                 
 Susmita Tripathy, Graduate student             
+- Topic: Modeling of core-level excitations
+
 [Sai Vijay Mocherla](https://vijaymocherla.github.io/), Junior research fellow       
+- Topic: Attosecond electron dynamics
 
 ### Visiting Students   
 Saminur Rahaman, BS/MS-Physics (IISER-Kolkata), long-term visiting student under the NIUS program   
 Satyam Panchal, BSc Physics, Ramjas College, Delhi, long-term visiting student under the NIUS program    
       
 ### Past members
+
+[Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)
+- B.Sc. in Chemistry, Ramakrishna Mission Vidyalaya, Narendrapur
+- M.Sc. in Chemistry, Presidency College
+- (July 2017 - October 2022) Ph.D. student, Thesis: Quantum chemical investigations across diverse chemical spaces
+- Since November 2022, Postdoctoral research associate at Schulich Faculty of Chemistry, Technion, Israel  
+
 [Prakriti Kayastha](https://prakayastha.github.io/)      
 – B.Sc. in Physics, Shiv Nadar University, Noida, India      
 – (2017 VSRP fellow with us)      
