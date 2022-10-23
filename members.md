@@ -8,12 +8,12 @@ layout: default
 Masters dissertation: Molecular Symmetry Groups of Non-Rigid Molecules (IIT Madras)    
 PhD dissertation: The DFT+U Method in the Framework of the Parallel Density Functional Code ParaGauss (TU-Muenchen)     
                
-Saurabh Chandra Kandpal, Ph.D. student        
-– Topic: Computational thermochemistry
-Susmita Tripathy, Ph.D. student             
-– Topic: Modeling of core-level excitations
-[Sai Vijay Mocherla](https://vijaymocherla.github.io/), Junior research fellow       
-– Topic: Attosecond electron dynamics
+Saurabh Chandra Kandpal, Ph.D. student             
+– Topic: Computational thermochemistry     
+Susmita Tripathy, Ph.D. student                  
+– Topic: Modeling of core-level excitations     
+[Sai Vijay Mocherla](https://vijaymocherla.github.io/), Junior research fellow            
+– Topic: Attosecond electron dynamics    
 
 ### Visiting Students   
 Saminur Rahaman, BS/MS-Physics (IISER-Kolkata), long-term visiting student under the NIUS program   
