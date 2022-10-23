@@ -20,12 +20,15 @@ _Modern Quantum Mechanics_, J. J. Sakurai, J. J. Napolitano, Cambridge Universit
 #### _Notes on selected topics for self-study:_   
 You can read these notes alongside the section in the reference text book given on the right side. This section will be updated as the course progresses. 
 
-1. [Paradoxes of a classical electron](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_01.pdf), 1.1: _The Stern-Gerlach Experiment_    
-2. [Linear vector space and Hilbert space](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_02_LVS.pdf), 1.2: _Kets, Bras and Operators_    
-3. [Canonical transformation](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_03_canonical_transformation.pdf), 1.6: _Position, Momentum, and Translation_     
-4. [Degeneracy theorem and Wronskian](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_04_degeneracy_theorem.pdf), 2.4: _Schroedinger’s Wave Equation_    
-5. [Series solution for particle-in-a-box](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_05_PIB_series_solution.pdf), 2.5: _Elementary Solutions to Schroedinger’s Wave Equation and Appendix B_        
-6. [Properties of a physically acceptible wavefunction](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_06_WavefunctionProperties.pdf), 2.5: _Elementary Solutions to Schroedinger’s Wave Equation_    
+1. [Application of Lambert-W function to derive Wien's displacement law](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_00_LambertWfunction.pdf), Preliminary topics     
+2. [Paradoxes of a classical electron](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_01.pdf), 1.1: _The Stern-Gerlach Experiment_    
+3. [Linear vector space and Hilbert space](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_02_LVS.pdf), 1.2: _Kets, Bras and Operators_    
+4. [Canonical transformation](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_03_canonical_transformation.pdf), 1.6: _Position, Momentum, and Translation_     
+5. [Degeneracy theorem and Wronskian](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_04_degeneracy_theorem.pdf), 2.4: _Schroedinger’s Wave Equation_    
+6. [Series solution for particle-in-a-box](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_05_PIB_series_solution.pdf), 2.5: _Elementary Solutions to Schroedinger’s Wave Equation and Appendix B_        
+7. [Properties of a physically acceptible wavefunction](teaching/QM2022_Sakurai_Notes/Notes_on_SelectedTopics_in_QM_for_Sakurai_06_WavefunctionProperties.pdf), 2.5: _Elementary Solutions to Schroedinger’s Wave Equation_    
+
+
 
 #### _Assignment problems:_       
 1. [QM2022_Assignment_01.pdf](teaching/QM2022_Assignment_01.pdf) [due 13 September 2022 (Tuesday), 08:30 AM]    
