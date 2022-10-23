@@ -30,7 +30,7 @@ Satyam Panchal, BSc Physics, Ramjas College, Delhi, long-term visiting student u
 - Since November 2022, Postdoctoral research associate at Schulich Faculty of Chemistry, Technion, Israel    
 
 [Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)      
-– B.Sc. in Physics, Shiv Nadar University, Noida, India      
+– B.Sc. in Chemistry, Ramakrishna Mission Vidyalaya, Narendrapur      
 – (2017 VSRP fellow with us)      
 – (June 2018 – May 2020, Junior Research Fellow with us)      
 – (May 2020 – September 2021, Senior Research Fellow with us)      
