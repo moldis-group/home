@@ -22,19 +22,12 @@ Saminur Rahaman, BS/MS-Physics (IISER-Kolkata), long-term visiting student under
 Satyam Panchal, BSc Physics, Ramjas College, Delhi, long-term visiting student under the NIUS program    
       
 ### Past members   
-
-[Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)        
-- B.Sc. in Chemistry, Ramakrishna Mission Vidyalaya, Narendrapur       
-- M.Sc. in Chemistry, Presidency College    
-- (July 2017 - October 2022) Ph.D. student, Thesis: Quantum chemical investigations across diverse chemical spaces   
-- Since November 2022, Postdoctoral research associate at Schulich Faculty of Chemistry, Technion, Israel    
-
 [Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)      
 – B.Sc. in Chemistry, Ramakrishna Mission Vidyalaya, Narendrapur      
-– (2017 VSRP fellow with us)      
-– (June 2018 – May 2020, Junior Research Fellow with us)      
+– M.Sc. in Chemistry, Presidency College      
+– (July 2017 - October 2022) Ph.D. student, Thesis: Quantum chemical investigations across diverse chemical spaces     
 – (May 2020 – September 2021, Senior Research Fellow with us)      
-– Since October 2021, Doctoral student at the Department of Mathematics, Physics and Electrical Engineering, Northumbria University, UK
+– Since November 2022, Postdoctoral research associate at Schulich Faculty of Chemistry, Technion, Israel 
 
 [Prakriti Kayastha](https://prakayastha.github.io/)      
 – B.Sc. in Physics, Shiv Nadar University, Noida, India      
