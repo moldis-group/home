@@ -9,6 +9,7 @@ Masters dissertation: Molecular Symmetry Groups of Non-Rigid Molecules (IIT Madr
 PhD dissertation: The DFT+U Method in the Framework of the Parallel Density Functional Code ParaGauss (TU-Muenchen)     
                
 Saurabh Chandra Kandpal, Ph.D. student        
+– B.Sc. in Chemistry, Ramakrishna Mission Vidyalaya, Narendrapur 
 - Topic: Computational thermochemistry
 Susmita Tripathy, Ph.D. student             
 - Topic: Modeling of core-level excitations
