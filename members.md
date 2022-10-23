@@ -21,7 +21,7 @@ Susmita Tripathy, Graduate student
 Saminur Rahaman, BS/MS-Physics (IISER-Kolkata), long-term visiting student under the NIUS program   
 Satyam Panchal, BSc Physics, Ramjas College, Delhi, long-term visiting student under the NIUS program    
       
-### Past members
+### Past members   
 
 [Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)        
 - B.Sc. in Chemistry, Ramakrishna Mission Vidyalaya, Narendrapur      
