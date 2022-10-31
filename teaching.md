@@ -35,6 +35,7 @@ You can read these notes alongside the section in the reference text book given 
 2. [QM2022_Assignment_02.pdf](teaching/QM2022_Assignment_02.pdf) [due 29 September 2022 (Thursday), 08:30 AM]  
 3. [QM2022_Assignment_03.pdf](teaching/QM2022_Assignment_03.pdf) [due 11 October 2022 (Tuesday), 08:30 AM]     
 4. [QM2022_Assignment_04.pdf](teaching/QM2022_Assignment_04.pdf) [due 03 November 2022 (Thursday), 08:30 AM]      
+5. [QM2022_Assignment_05.pdf](teaching/QM2022_Assignment_05.pdf) [due 13 November 2022 (Thursday), 08:30 AM]     
 
 #### _Exam problems:_        
 Mid-term exam [QM2022_Mid.pdf](teaching/QM2022_Mid.pdf) [held on 8 October 2022, 14:00-16:00 pm]
