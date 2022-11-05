@@ -5,6 +5,6 @@ Hyderabad, Telengana 500019
 INDIA            
 <ramakrishnan@tifrh.res.in>      
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raghurama123.svg?style=social&label=%20%40raghurama123)](https://twitter.com/raghurama123)    
-[https://mastodon.social/@raghurama123]([mastodon](https://mastodon.social/@raghurama123))   
+[https://mastodon.social/@raghurama123](https://mastodon.social/@raghurama123)   
 <img src="assets/img/orcid.png"  height="15">[  https://orcid.org/0000-0002-7288-9238](https://orcid.org/0000-0002-7288-9238)     
 
