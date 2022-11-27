@@ -44,8 +44,8 @@ Satyam Panchal, BSc Physics, Ramjas College, Delhi, long-term visiting student u
 
 [Amit Gupta](https://scholar.google.com/citations?user=PMsv6NAAAAAJ&hl=en)      
 – Ph.D. in Chemistry, Indian Institute of Science, Bangalore, India      
-– (August 2018 – July 2021, Research Associate with us)      
-– Since August 2021, Research Associate at the University of Minnesota, USA      
+– (August 2018 – July 2021, Postdoctoral research Associate with us)      
+– Since August 2021, Postdoctoral research Associate at the University of Minnesota, USA      
 
 Sambit Kumar Das      
 – M.Sc. in Chemistry, Indian Institute of Technology Bhubaneswar, India      
