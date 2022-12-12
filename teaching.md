@@ -105,7 +105,7 @@ Tentative course outline: [2021_DataScience.pdf](teaching/2021_DataScience.pdf)
 
 ## Numerical Methods for Quantum Mechanics: A mini-course
 
-The presentation and the notebooks are prepared for the lecture Numerical Approaches for Quantum Mechanics on 30 December 2021 as a part of the program
+The presentation and the notebooks were prepared for the lecture Numerical Approaches for Quantum Mechanics on 30 December 2021 as a part of the program
 [National Initiative on Undergraduate Science (NIUS)](https://nius.hbcse.tifr.res.in/). NIUS is an initiative of the [Homi Bhabha Centre for Science Education, TIFR](https://www.hbcse.tifr.res.in/).
 
 ![](https://github.com/raghurama123/NumQM_Basic)
@@ -117,12 +117,22 @@ The presentation and the notebooks are prepared for the lecture Numerical Approa
 
 ## Computer-based Exercises in Physical Chemistry: A mini-course
 
-The presentation and the notebooks are prepared for the lecture Computer-based Exercises in Physical Chemistry on 26 December 2021 as a part of the program
+The presentation and the notebooks were prepared for the lecture Computer-based Exercises in Physical Chemistry on 26 December 2021 as a part of the program
 [National Initiative on Undergraduate Science (NIUS)](https://nius.hbcse.tifr.res.in/). NIUS is an initiative of the [Homi Bhabha Centre for Science Education, TIFR](https://www.hbcse.tifr.res.in/).
 
 ![](https://github.com/raghurama123/Comp_PhysChem_Basic)
 <a href="https://github.com/raghurama123/Comp_PhysChem_Basic">
 <img src="https://raw.githubusercontent.com/raghurama123/Comp_PhysChem_Basic/main/img/Comp_PhysChem.png"  height="100">
+</a>
+
+* * *
+## Computational NMR spectroscopy with Quantum Chemistry -- A tutorial
+
+The presentation and the input/outfile files were prepared for the meeting ["NMR meets biology" held 05-11 December 2022](https://www.tifrh.res.in/~nmr/nmr-meets-biology/index.html).
+
+![](https://gitlab.com/raghurama123/nmrworkshop2022)
+<a href="https://gitlab.com/raghurama123/nmrworkshop2022">
+<img src="https://github.com/moldis-group/moldis-group.github.io/blob/main/assets/img/FjdFYC0UYAM_DPJ.jpeg?raw=true"  height="100">
 </a>
 
 * * *
