@@ -39,6 +39,9 @@ You can read these notes alongside the section in the reference text book given 
 
 #### _Exam problems:_        
 Mid-term exam [QM2022_Mid.pdf](teaching/QM2022_Mid.pdf) [held on 8 October 2022, 14:00-16:00 pm]
+Final exam 1  [QM2022_FinalExam_1.pdf](teaching/QM2022_FinalExam_01.pdf) [held on 29 November 2022, 08:30-10:00 am]  
+Final exam 2  [QM2022_FinalExam_2.pdf](teaching/QM2022_FinalExam_02.pdf) [held on 1 December 2022, 08:30-10:00 am]  
+Final exam 3  [QM2022_FinalExam_3.pdf](teaching/QM2022_FinalExam_03.pdf) [held on 3 December 2022, 10:30 am -12:00 pm]  
 
 #### _What are some good text books to consult for QM-1?:_ 
 
