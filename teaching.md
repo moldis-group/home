@@ -131,7 +131,7 @@ The presentation and the notebooks were prepared for the lecture Computer-based 
 * * *
 ## Computational NMR spectroscopy with Quantum Chemistry -- A tutorial
 
-The presentation and the input/outfile files were prepared for the meeting ["NMR meets biology" held 05-11 December 2022](https://www.tifrh.res.in/~nmr/nmr-meets-biology/index.html).
+The presentation and the input/outfile files were prepared for the meeting ["NMR meets biology" held during 05-11 December 2022](https://www.tifrh.res.in/~nmr/nmr-meets-biology/index.html).
 
 ![](https://gitlab.com/raghurama123/nmrworkshop2022)
 <a href="https://gitlab.com/raghurama123/nmrworkshop2022">
