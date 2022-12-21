@@ -3,6 +3,10 @@ layout: default
 ---
 
 ## Publications      
+1. [ _Understanding the role of intramolecular ion-pair interactions in conformational stability using an ab initio thermodynamic cycle_](http://arxiv.org/abs/2203.03478)       
+Sabyasachi Chakraborty, Kalyaneswar Mandal, Raghunathan Ramakrishnan     
+Journal of Physical Chemistry B (accepted)
+
 1. [_The Resolution-vs.-Accuracy Dilemma in Machine Learning Modeling of Electronic Excitation Spectra_](https://doi.org/10.1039/D1DD00031D)    
 Prakriti Kayastha, Sabyasachi Chakraborty, Raghunathan Ramakrishnan   
 Digital Discovery, 1 (2022) 689-702.    
@@ -166,10 +170,7 @@ Physics Review A, 85 (2012) 054501.
     Tetrahedron letters, 48 (2007) 761–765.
     
  
-#### Preprints
-
-1. [ _Understanding the role of intramolecular ion-pair interactions in conformational stability using an ab initio thermodynamic cycle_](http://arxiv.org/abs/2203.03478)       
-Sabyasachi Chakraborty, Kalyaneswar Mandal, Raghunathan Ramakrishnan             
+#### Preprints        
 
 1. [ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)       
 Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan             
