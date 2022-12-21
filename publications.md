@@ -6,7 +6,7 @@ layout: default
 1. [ _Understanding the role of intramolecular ion-pair interactions in conformational stability using an ab initio thermodynamic cycle_](http://arxiv.org/abs/2203.03478)       
 Sabyasachi Chakraborty, Kalyaneswar Mandal, Raghunathan Ramakrishnan     
 Journal of Physical Chemistry B (accepted)      
-[Supplementary Information](https://github.com/moldis-group/si_intraionpair)   
+[Supplementary Information: Raw I/O files, Jupyter notebooks](https://github.com/moldis-group/si_intraionpair)   
 
 1. [_The Resolution-vs.-Accuracy Dilemma in Machine Learning Modeling of Electronic Excitation Spectra_](https://doi.org/10.1039/D1DD00031D)    
 Prakriti Kayastha, Sabyasachi Chakraborty, Raghunathan Ramakrishnan   
