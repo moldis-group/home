@@ -88,11 +88,15 @@ This list is maintained (and will be regularly updated) for the sake of collecti
 
 ## Numerical Methods, PHY-102.7/CHM-116.7
 
-Tentative course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
+Here is a tentative course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
 
-#### _Latest syllabus and Course material:_ 
+#### _2022 syllabus and Course material:_ 
 
 [https://github.com/raghurama123/NumericalMethods](https://github.com/raghurama123/NumericalMethods)     
+
+#### _2023 syllabus and Course material:_ 
+
+We will follow the new book  _Numerical Methods in Physics with Python_ by ALEX GEZERLIS. Additional material collected by the author is availabe here: [www.numphyspy.org](www.numphyspy.org).     
 
 * * *
 
