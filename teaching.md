@@ -88,6 +88,11 @@ Additional material and errata collected by the author is availabe here: [www.nu
 Notes and programs etc. prepared for the course are available at [https://github.com/raghurama123/nm2023](https://github.com/raghurama123/nm2023).      
 
 * * *
+## Quantum Mechanics 2, PHY-206.7/CHM-211.7
+
+This course is offered along with Dr. G. Rajalakshmi (raji@tifrh.res.in). This course aims to cover the advanced topics in Sakurai's _Modern Quantum Mechanics_ (Edition-3, 2021) and possibly some topics from other references.   
+
+* * * 
 
 ## Data Science, CHM-255.7
 
