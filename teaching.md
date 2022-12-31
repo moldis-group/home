@@ -81,7 +81,11 @@ Here is a tentative course outline: [2021_NM.pdf](teaching/2021_NM.pdf)
 
 #### _2023 syllabus and Course material:_ 
 
-We will follow the new book  _Numerical Methods in Physics with Python_, Alex Gezerlis, Cambridge University Press (Edition-1, 2020).  . Additional material collected by the author is availabe here: [www.numphyspy.org](www.numphyspy.org).     
+We will follow the new book  
+```
+_Numerical Methods in Physics with Python_, Alex Gezerlis, Cambridge University Press (Edition-1, 2020).  
+```
+Additional material collected by the author is availabe here: [www.numphyspy.org](www.numphyspy.org).     
 
 Notes and programs etc. prepared for the course are available at [https://github.com/raghurama123/nm2023](https://github.com/raghurama123/nm2023).      
 
