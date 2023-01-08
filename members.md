@@ -5,9 +5,7 @@ layout: default
 ## Present members
 
 Raghunathan Ramakrishnan, Principal Investigator      
-Masters dissertation: Molecular Symmetry Groups of Non-Rigid Molecules (IIT Madras)    
-PhD dissertation: The DFT+U Method in the Framework of the Parallel Density Functional Code ParaGauss (TU-Muenchen)   
-Google Scholar: [https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)  
+ Google Scholar: [https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)  
                
 Saurabh Chandra Kandpal, Ph.D. student             
 – Topic: Computational thermochemistry     
@@ -26,8 +24,7 @@ Satyam Panchal, BSc Physics, Ramjas College, Delhi, long-term visiting student u
 
 #### Ph.D. Students
 
-Sabyasachi Chakraborty      
-Thesis: Quantum chemical investigations across diverse chemical spaces (Thesis defense held on 15 December 2022)            
+Sabyasachi Chakraborty, Thesis: Quantum chemical investigations across diverse chemical spaces (Thesis defense held on 15 December 2022)               
 
 #### Junior Research Fellows
 Prakriti Kayastha     
