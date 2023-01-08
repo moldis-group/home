@@ -7,14 +7,12 @@ layout: default
 Raghunathan Ramakrishnan, Principal Investigator      
  Google Scholar: [https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)  
                
-Saurabh Chandra Kandpal, Ph.D. student             
-– Topic: Computational thermochemistry     
+#### Ph.D. Students
+Saurabh Chandra Kandpal, Topic: Computational thermochemistry     
+Susmita Tripathy, Topic: Modeling of core-level excitations     
 
-Susmita Tripathy, Ph.D. student                  
-– Topic: Modeling of core-level excitations     
-
-Sai Vijay Mocherla, Junior research fellow            
-– Topic: Attosecond electron dynamics    
+#### Junior Research Fellows
+Sai Vijay Mocherla, Topic: Attosecond electron dynamics    
 
 ### Visiting Students   
 Saminur Rahaman, BS/MS-Physics (IISER-Kolkata), long-term visiting student under the NIUS program   
