@@ -23,7 +23,7 @@ Sabyasachi Chakraborty, Thesis: Quantum chemical investigations across diverse c
 #### Junior Research Fellows
 Prakriti Kayastha     
 Salini Senthil      
-Sambit Kumar Das 
+Sambit Kumar Das      
 Rutvij Vihang Bhavsar 
  
 #### Postdoctoral Research Associates
