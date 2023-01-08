@@ -14,7 +14,7 @@ Susmita Tripathy, Topic: Modeling of core-level excitations
 #### Junior Research Fellows
 Sai Vijay Mocherla, Topic: Attosecond electron dynamics    
       
-### Past members   
+### Alumni   
 
 #### Ph.D. Students
 
