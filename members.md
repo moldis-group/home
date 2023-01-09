@@ -9,7 +9,7 @@ layout: default
 - Susmita Tripathy, Ph.D. Student  
 - Sai Vijay Mocherla, Junior Research Fellow    
       
-### Alumni   
+## Alumni   
 
 - Sabyasachi Chakraborty, Ph.D. Student, Thesis: Quantum chemical investigations across diverse chemical spaces (Thesis defense held on 15 December 2022)     
 - Prakriti Kayastha, Junior Research Fellow     
