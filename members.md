@@ -5,8 +5,6 @@ layout: default
 ## Present members
 
 - Raghunathan Ramakrishnan, Principal Investigator      
-Google Scholar: [https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)  
-               
 - Saurabh Chandra Kandpal, Ph.D. Student  
 - Susmita Tripathy, Ph.D. Student  
 - Sai Vijay Mocherla, Junior Research Fellow    
