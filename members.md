@@ -5,29 +5,20 @@ layout: default
 ## Present members
 
 Raghunathan Ramakrishnan, Principal Investigator      
- Google Scholar: [https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)  
+Google Scholar: [https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)  
                
-#### Ph.D. Students
-Saurabh Chandra Kandpal, Topic: Computational thermochemistry     
-Susmita Tripathy, Topic: Modeling of core-level excitations     
-
-#### Junior Research Fellows
-Sai Vijay Mocherla, Topic: Attosecond electron dynamics    
+Saurabh Chandra Kandpal, Ph.D. Student, Topic: Computational thermochemistry     
+Susmita Tripathy, Ph.D. Student, Topic: Modeling of core-level excitations     
+Sai Vijay Mocherla, Junior Research Fellow, Topic: Attosecond electron dynamics    
       
 ### Alumni   
 
-#### Ph.D. Students
-
-Sabyasachi Chakraborty, Thesis: Quantum chemical investigations across diverse chemical spaces (Thesis defense held on 15 December 2022)               
-
-#### Junior Research Fellows
-Prakriti Kayastha     
-Salini Senthil      
-Sambit Kumar Das      
-Rutvij Vihang Bhavsar 
- 
-#### Postdoctoral Research Associates
-Amit Gupta      
+Sabyasachi Chakraborty, Ph.D. Student, Thesis: Quantum chemical investigations across diverse chemical spaces (Thesis defense held on 15 December 2022)     
+Prakriti Kayastha, Junior Research Fellow     
+Salini Senthil, Junior Research Fellow      
+Sambit Kumar Das, Junior Research Fellow      
+Rutvij Vihang Bhavsar, Junior Research Fellow 
+Amit Gupta, Postdoctoral Research Associate      
 
 ## Former visiting Students      
 2016, Ahana Ghosh   
