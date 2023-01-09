@@ -11,7 +11,7 @@ layout: default
       
 ## Alumni   
 
-- Sabyasachi Chakraborty, Ph.D. Student, Thesis: Quantum chemical investigations across diverse chemical spaces        
+- Sabyasachi Chakraborty, Ph.D. Student           
 - Prakriti Kayastha, Junior Research Fellow     
 - Salini Senthil, Junior Research Fellow      
 - Amit Gupta, Postdoctoral Research Associate      
