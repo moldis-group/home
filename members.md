@@ -13,12 +13,12 @@ Sai Vijay Mocherla, Junior Research Fellow, Topic: Attosecond electron dynamics
       
 ### Alumni   
 
-Sabyasachi Chakraborty, Ph.D. Student, Thesis: Quantum chemical investigations across diverse chemical spaces (Thesis defense held on 15 December 2022)     
-Prakriti Kayastha, Junior Research Fellow     
-Salini Senthil, Junior Research Fellow      
-Sambit Kumar Das, Junior Research Fellow      
-Rutvij Vihang Bhavsar, Junior Research Fellow 
-Amit Gupta, Postdoctoral Research Associate      
+- Sabyasachi Chakraborty, Ph.D. Student, Thesis: Quantum chemical investigations across diverse chemical spaces (Thesis defense held on 15 December 2022)     
+- Prakriti Kayastha, Junior Research Fellow     
+- Salini Senthil, Junior Research Fellow      
+- Sambit Kumar Das, Junior Research Fellow      
+- Rutvij Vihang Bhavsar, Junior Research Fellow 
+- Amit Gupta, Postdoctoral Research Associate      
 
 ## Former visiting Students      
 2016, Ahana Ghosh   
