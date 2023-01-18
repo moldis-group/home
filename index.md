@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Our official website is here: [https://www.tifrh.res.in/~ramakrishnan/](https://www.tifrh.res.in/~ramakrishnan/)     
+
 ## Laboratory for Chemical Space Design and Data Science    
 We are a small interdisciplinary team at the [Tata Institute of Fundamental Research Hyderabad, India](https://www.tifrh.res.in/). Topics of interest to us, in no particular order of preference, are Chemical compound space design, Quantum mechanics, Machine learning and Big Data analytics, Computational materials science, High-performance computing, Density functional theory, Femtosecond electron dynamics, Anharmonic vibrational spectra, Potential energy surfaces, and Computer-based science education. Our present research activities are largely driven by the requirements of our MolDis initiative.
 
